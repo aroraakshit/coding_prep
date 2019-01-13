@@ -7,3 +7,4 @@ A collection of coding interview problems with my solutions. From various source
 3. Codility (Hard) - Tree Trip [[link](https://app.codility.com/programmers/task/tree_trip/)]
 4. LeetCode (Medium) - Add Two Numbers [[link](https://leetcode.com/problems/add-two-numbers/)]
 5. LeetCode (Hard) - Median of Two Sorted Arrays [[link](https://leetcode.com/problems/median-of-two-sorted-arrays/)]
+6. LeetCode (Medium) - Three Sum [[link](https://leetcode.com/problems/3sum)]
