@@ -10,3 +10,4 @@ A collection of coding interview problems with my solutions. From various source
 6. LeetCode (Medium) - Three Sum [[link](https://leetcode.com/problems/3sum)]
 7. LeetCode(Medium) - Set Matrix Zeroes [[link](https://leetcode.com/problems/set-matrix-zeroes/)]
 8. LeetCode (Medium) - Group Anagrams [[link](https://leetcode.com/problems/group-anagrams/)]
+9. LeetCode (Medium) - Longest Palindromic Substring [[link](https://leetcode.com/problems/longest-palindromic-substring/)] ([Manacher's Algorithm](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/))
