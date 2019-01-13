@@ -8,3 +8,4 @@ A collection of coding interview problems with my solutions. From various source
 4. LeetCode (Medium) - Add Two Numbers [[link](https://leetcode.com/problems/add-two-numbers/)]
 5. LeetCode (Hard) - Median of Two Sorted Arrays [[link](https://leetcode.com/problems/median-of-two-sorted-arrays/)]
 6. LeetCode (Medium) - Three Sum [[link](https://leetcode.com/problems/3sum)]
+7. LeetCode(Medium) - Set Matrix Zeroes [[link](https://leetcode.com/problems/set-matrix-zeroes/)]
