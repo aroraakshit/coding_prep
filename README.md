@@ -12,3 +12,5 @@ A collection of coding interview problems with my solutions. From various source
 8. LeetCode (Medium) - Group Anagrams [[link](https://leetcode.com/problems/group-anagrams/)]
 9. LeetCode (Medium) - Longest Palindromic Substring [[link](https://leetcode.com/problems/longest-palindromic-substring/)] ([Manacher's Algorithm](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/))
 10. LeetCode (Medium) - Increasing Triplet Subsequence [[link](https://leetcode.com/problems/increasing-triplet-subsequence/)]
+11. LeetCode (Medium) - Missing Ranges [[link](https://leetcode.com/problems/missing-ranges/)]
+12. LeetCode (Easy) - Reverse LinkedList [[link](https://leetcode.com/problems/reverse-linked-list/)]
