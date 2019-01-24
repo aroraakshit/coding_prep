@@ -14,3 +14,4 @@ A collection of coding interview problems with my solutions. From various source
 10. LeetCode (Medium) - Increasing Triplet Subsequence [[link](https://leetcode.com/problems/increasing-triplet-subsequence/)]
 11. LeetCode (Medium) - Missing Ranges [[link](https://leetcode.com/problems/missing-ranges/)]
 12. LeetCode (Easy) - Reverse LinkedList [[link](https://leetcode.com/problems/reverse-linked-list/)]
+13. LeetCode (Hard) - Reverse LinkedList in k groups [[link](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/)]
