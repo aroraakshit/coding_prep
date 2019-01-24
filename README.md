@@ -15,3 +15,5 @@ A collection of coding interview problems with my solutions. From various source
 11. LeetCode (Medium) - Missing Ranges [[link](https://leetcode.com/problems/missing-ranges/)]
 12. LeetCode (Easy) - Reverse LinkedList [[link](https://leetcode.com/problems/reverse-linked-list/)]
 13. LeetCode (Hard) - Reverse LinkedList in k groups [[link](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/)]
+14. LeetCode (Easy) - Sqrt [[link](https://leetcode.com/problems/sqrtx/)]
+15. LeetCode (Easy) - Rectangle Overlap [[link](https://leetcode.com/problems/rectangle-overlap/)]
