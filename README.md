@@ -7,7 +7,7 @@ A collection of coding interview problems with my solutions. From various source
 3. Codility (Hard) - Tree Trip [[link](https://app.codility.com/programmers/task/tree_trip/)]
 4. LeetCode (Medium) - Add Two Numbers [[link](https://leetcode.com/problems/add-two-numbers/)]
 5. LeetCode (Hard) - Median of Two Sorted Arrays [[link](https://leetcode.com/problems/median-of-two-sorted-arrays/)]
-6. LeetCode (Medium) - Three Sum [[link](https://leetcode.com/problems/3sum)]
+6. LeetCode (Medium) - Three Sum [[link](https://leetcode.com/problems/3sum)]   
 7. LeetCode(Medium) - Set Matrix Zeroes [[link](https://leetcode.com/problems/set-matrix-zeroes/)]
 8. LeetCode (Medium) - Group Anagrams [[link](https://leetcode.com/problems/group-anagrams/)]
 9. LeetCode (Medium) - Longest Palindromic Substring [[link](https://leetcode.com/problems/longest-palindromic-substring/)] ([Manacher's Algorithm](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/))
@@ -19,7 +19,7 @@ A collection of coding interview problems with my solutions. From various source
 15. LeetCode (Easy) - Rectangle Overlap [[link](https://leetcode.com/problems/rectangle-overlap/)]
 16. LeetCode (Hard) - Interleaving String [[link](https://leetcode.com/problems/interleaving-string/)]
 17. LeetCode (Medium) - Merge Intervals [[link](https://leetcode.com/problems/merge-intervals/)]
-18. 
+18. LeetCode (Medium) - Generate Parentheses [[link](https://leetcode.com/problems/generate-parentheses/)]
 
 ---
 
