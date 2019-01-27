@@ -18,3 +18,14 @@ A collection of coding interview problems with my solutions. From various source
 14. LeetCode (Easy) - Sqrt [[link](https://leetcode.com/problems/sqrtx/)]
 15. LeetCode (Easy) - Rectangle Overlap [[link](https://leetcode.com/problems/rectangle-overlap/)]
 16. LeetCode (Hard) - Interleaving String [[link](https://leetcode.com/problems/interleaving-string/)]
+17. LeetCode (Medium) - Merge Intervals [[link](https://leetcode.com/problems/merge-intervals/)]
+18. 
+
+---
+
+Other Resources:
+
+1. TopCoder Blog - GitHub Repositories With Competitive Programming Libraries [[link](https://www.topcoder.com/blog/github-repositories-with-competitive-programming-libraries/)]
+2. Problem Solving with Algorithms and Data Structures using Python [[link](http://interactivepython.org/runestone/static/pythonds/index.html)]
+3. RosettaCode [[link](https://rosettacode.org/wiki/Category:Programming_Tasks)]
+4. Problem Solving with Algorithms and Data Structures using C++ [[link](https://runestone.academy/runestone/static/cppds/index.html)]
