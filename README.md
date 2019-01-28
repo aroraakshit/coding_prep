@@ -21,6 +21,7 @@ A collection of coding interview problems with my solutions. From various source
 17. LeetCode (Medium) - Merge Intervals [[link](https://leetcode.com/problems/merge-intervals/)]
 18. LeetCode (Medium) - Generate Parentheses [[link](https://leetcode.com/problems/generate-parentheses/)]
 19. LeetCode (Hard) - LRU Cache [[link](https://leetcode.com/problems/lru-cache/)]
+20. LeetCode (Medium) - Search in Rotated Sorted Array [[link](https://leetcode.com/problems/search-in-rotated-sorted-array/)]
 
 ---
 
