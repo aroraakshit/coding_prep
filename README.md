@@ -27,6 +27,7 @@ A collection of coding interview problems with my solutions. From various source
 23. LeetCode (Easy) - Two Sum [[link](https://leetcode.com/problems/two-sum/)]
 24. LeetCode (Medium) - Kth Largest Element in an Array [[link](https://leetcode.com/problems/kth-largest-element-in-an-array/)]
 25. LeetCode (Medium) - UTF-8 Validation [[link](https://leetcode.com/problems/utf-8-validation/)]
+26. LeetCode (Easy) - Count Primes [[link](https://leetcode.com/problems/count-primes/)]
 
 ---
 
