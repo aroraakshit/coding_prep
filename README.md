@@ -24,6 +24,7 @@ A collection of coding interview problems with my solutions. From various source
 20. LeetCode (Medium) - Search in Rotated Sorted Array [[link](https://leetcode.com/problems/search-in-rotated-sorted-array/)]
 21. LeetCode (Medium) - Rotate Image [[link](https://leetcode.com/problems/rotate-image/)]
 22. LeetCode (Easy) - Maximum Subarray [[link](https://leetcode.com/problems/maximum-subarray/)]
+23. LeetCode (Easy) - Two Sum [[link](https://leetcode.com/problems/two-sum/)]
 
 ---
 

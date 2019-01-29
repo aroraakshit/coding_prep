@@ -6,6 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+// 44 ms solution
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
@@ -42,5 +43,50 @@ public:
         l3_head = l3_head->next;
         
         return l3_head;
+    }
+};
+
+
+// 16 ms solution - Credit: LeetCode
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+
+auto desyncio = []()
+{
+    std::ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    return nullptr;
+}();
+
+class Solution {
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ListNode* root = NULL, *current = NULL;
+        
+        int c = 0;
+        while(l1 || l2 || c) {
+            int x = l1 ? l1->val : 0;
+            int y = l2 ? l2->val : 0;
+            int z = x + y + c;
+            int r = z % 10;
+            c = z/10;
+            if(!current) {
+                root = current = new ListNode(r);
+            } else {
+                current->next = new ListNode(r);
+                current = current->next;
+            }
+            
+            l1 = l1 ? l1->next: NULL;
+            l2 = l2 ? l2->next: NULL;
+        }
+        
+        return root;
     }
 };
