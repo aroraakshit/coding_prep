@@ -25,6 +25,8 @@ A collection of coding interview problems with my solutions. From various source
 21. LeetCode (Medium) - Rotate Image [[link](https://leetcode.com/problems/rotate-image/)]
 22. LeetCode (Easy) - Maximum Subarray [[link](https://leetcode.com/problems/maximum-subarray/)]
 23. LeetCode (Easy) - Two Sum [[link](https://leetcode.com/problems/two-sum/)]
+24. LeetCode (Medium) - Kth Largest Element in an Array [[link](https://leetcode.com/problems/kth-largest-element-in-an-array/)]
+25. LeetCode (Medium) - UTF-8 Validation [[link](https://leetcode.com/problems/utf-8-validation/)]
 
 ---
 
