@@ -2,7 +2,7 @@
 
 using namespace std;
 
-class Solution {
+class Solution { // O(n) time and space
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         map<int, int> d;

@@ -6,7 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-class Solution {
+class Solution { // O(n) time and O(1) space
 public:
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
