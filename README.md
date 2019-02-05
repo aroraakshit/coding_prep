@@ -38,3 +38,5 @@ Other Resources:
 2. Problem Solving with Algorithms and Data Structures using Python [[link](http://interactivepython.org/runestone/static/pythonds/index.html)]
 3. RosettaCode [[link](https://rosettacode.org/wiki/Category:Programming_Tasks)]
 4. Problem Solving with Algorithms and Data Structures using C++ [[link](https://runestone.academy/runestone/static/cppds/index.html)]
+5. Algs4cs Princeton [[link](https://algs4.cs.princeton.edu/lectures/)]
+6. Union Find - HackerEarth [[link](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)]

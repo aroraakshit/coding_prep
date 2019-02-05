@@ -39,3 +39,17 @@ public:
         
     }
 };
+
+// Could have abstracted out the reverse function like this:
+    // void reverse(string &s, int l, int h) {
+    //     while (l < h) {
+    //         swap(s[l++], s[--h]);
+    //     }
+    // }
+
+// also as an optimization, sync stdio to false
+// static const auto speedup = []() {
+//     ios::sync_with_stdio(false);
+//     cin.tie(nullptr);
+//     return nullptr;
+// }();
