@@ -29,6 +29,15 @@ A collection of coding interview problems with my solutions. From various source
 25. LeetCode (Medium) - UTF-8 Validation [[link](https://leetcode.com/problems/utf-8-validation/)]
 26. LeetCode (Easy) - Count Primes [[link](https://leetcode.com/problems/count-primes/)]
 27. LeetCode (Easy) - Climbing Stairs [[link](https://leetcode.com/problems/climbing-stairs/)]
+28. LeetCode (Hard) - Maximal Rectangle [[link](https://leetcode.com/problems/maximal-rectangle/)]
+29. LeetCode (Medium) - Product of Array Except Self [[link](https://leetcode.com/problems/product-of-array-except-self/)]
+30. LeetCode (Easy) - Sum of Two Numbers [[link](https://leetcode.com/problems/sum-of-two-integers/)]
+31. LeetCode (Medium) - Validate Binary Search Tree [[link](https://leetcode.com/problems/validate-binary-search-tree/)]
+32. LeetCode (Easy) - Add Strings [[link](https://leetcode.com/problems/add-strings/)]
+33. LeetCode (Hard) - Trapping Rain Water [[link](https://leetcode.com/problems/trapping-rain-water/)]
+34. LeetCode (Medium) - Number of Islands [[link](https://leetcode.com/problems/number-of-islands/)]
+35. LeetCode (Medium) - Reverse Words in a String [[link](https://leetcode.com/problems/reverse-words-in-a-string/)]
+36. LeetCode (Medium) - Binary Tree Zigzag Level Order Traversal [[link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)]
 
 ---
 
