@@ -38,6 +38,8 @@ A collection of coding interview problems with my solutions. From various source
 34. LeetCode (Medium) - Number of Islands [[link](https://leetcode.com/problems/number-of-islands/)]
 35. LeetCode (Medium) - Reverse Words in a String [[link](https://leetcode.com/problems/reverse-words-in-a-string/)]
 36. LeetCode (Medium) - Binary Tree Zigzag Level Order Traversal [[link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)]
+37. LeetCode (Medium) - WordBreak [[link](https://leetcode.com/problems/word-break/)]
+38. LeetCode (Hard) - WordBreak II [[link](https://leetcode.com/problems/word-break-ii/)]
 
 ---
 
