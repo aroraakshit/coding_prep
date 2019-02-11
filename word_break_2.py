@@ -106,7 +106,8 @@ class Solution:
 
 
 # 36ms solution from optimizing the solutions above: looking up string in a set is much easier than looking up string in a list
-from collections import defaultdict
+# Sets are significantly faster when it comes to determining if an object is present in the set (as in x in s), but are slower than lists when it comes to iterating over their contents.
+from collections import defaultdict # https://stackoverflow.com/questions/2831212/python-sets-vs-lists
 class Solution:
     def __init__(self):
         self.memo = defaultdict(list)
