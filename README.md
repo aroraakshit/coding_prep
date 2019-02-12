@@ -42,6 +42,8 @@ A collection of coding interview problems with my solutions. From various source
 38. LeetCode (Hard) - WordBreak II [[link](https://leetcode.com/problems/word-break-ii/)]
 39. LeetCode (Hard) - Concatenated Words [[link](https://leetcode.com/problems/concatenated-words/)]
 40. LeetCode (Medium) - Partition Equal Subset Sum [[link](https://leetcode.com/problems/partition-equal-subset-sum/)]
+41. LeetCode (Medium) - Partition to K Equal Sum Subset [[link](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)]
+42. LeetCode (Easy) - Reverse Bits [[link](https://leetcode.com/problems/reverse-bits/)]
 
 ---
 
