@@ -44,6 +44,9 @@ A collection of coding interview problems with my solutions. From various source
 40. LeetCode (Medium) - Partition Equal Subset Sum [[link](https://leetcode.com/problems/partition-equal-subset-sum/)]
 41. LeetCode (Medium) - Partition to K Equal Sum Subset [[link](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)] #TODO
 42. LeetCode (Easy) - Reverse Bits [[link](https://leetcode.com/problems/reverse-bits/)]
+43. LeetCode (Medium) - Subsets [[link](https://leetcode.com/problems/subsets/)]
+44. LeetCode (Easy) - Single Number [[link](https://leetcode.com/problems/single-number/)]
+45. LeetCode (Medium) - Single Number II [[link](https://leetcode.com/problems/single-number-ii/)]
 
 ---
 
