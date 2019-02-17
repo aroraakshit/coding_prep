@@ -47,6 +47,7 @@ A collection of coding interview problems with my solutions. From various source
 43. LeetCode (Medium) - Subsets [[link](https://leetcode.com/problems/subsets/)]
 44. LeetCode (Easy) - Single Number [[link](https://leetcode.com/problems/single-number/)]
 45. LeetCode (Medium) - Single Number II [[link](https://leetcode.com/problems/single-number-ii/)]
+46. LeetCode (Easy) - Move Zeroes [[link](https://leetcode.com/problems/move-zeroes/)]
 
 ---
 
