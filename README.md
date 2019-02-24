@@ -54,6 +54,7 @@ A collection of coding interview problems with my solutions. From various source
 50. LeetCode (Easy) - Valid Palindrome II [[link](https://leetcode.com/problems/valid-palindrome-ii/)]
 51. LeetCode (Medium) - ZigZag Conversion [[link](https://leetcode.com/problems/zigzag-conversion/)]
 52. LeetCode (Easy) - Palindrome Number [[link](https://leetcode.com/problems/palindrome-number/)]
+53. LeetCode (Hard) - Regular Expression Matching [[link](https://leetcode.com/problems/regular-expression-matching/)]
 
 ---
 
