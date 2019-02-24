@@ -51,6 +51,8 @@ A collection of coding interview problems with my solutions. From various source
 47. LeetCode (Easy) - Add Binary Numbers [[link](https://leetcode.com/problems/add-binary/)]
 48. LeetCode (Easy) - Intersection of Two Arrays II [[link](https://leetcode.com/problems/intersection-of-two-arrays-ii/)]
 49. LeetCode (Easy) - Valid Palindrome [[link](https://leetcode.com/problems/valid-palindrome/)]
+50. LeetCode (Easy) - Valid Palindrome II [[link](https://leetcode.com/problems/valid-palindrome-ii/)]
+51. LeetCode (Medium) - ZigZag Conversion [[link](https://leetcode.com/problems/zigzag-conversion/)]
 
 ---
 
