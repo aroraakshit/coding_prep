@@ -56,6 +56,7 @@ A collection of coding interview problems with my solutions. From various source
 52. LeetCode (Easy) - Palindrome Number [[link](https://leetcode.com/problems/palindrome-number/)]
 53. LeetCode (Hard) - Regular Expression Matching [[link](https://leetcode.com/problems/regular-expression-matching/)]
 54. LeetCode (Medium) - Container with Most Water [[link](https://leetcode.com/problems/container-with-most-water/)]
+55. LeetCode (Easy) - Roman to Integer [[link](https://leetcode.com/problems/roman-to-integer/)]
 
 ---
 
