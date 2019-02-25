@@ -59,6 +59,7 @@ A collection of coding interview problems with my solutions. From various source
 55. LeetCode (Easy) - Roman to Integer [[link](https://leetcode.com/problems/roman-to-integer/)]
 56. LeetCode (Easy) - Longest Common Prefix [[link](https://leetcode.com/problems/longest-common-prefix/)] 
 57. LeetCode (Medium) - Interval List Intersections [[link](https://leetcode.com/problems/interval-list-intersections/)]
+58. LeetCode (Easy) - Squares of a Sorted Array [[link](https://leetcode.com/problems/squares-of-a-sorted-array/)]
 
 ---
 
