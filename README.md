@@ -57,6 +57,7 @@ A collection of coding interview problems with my solutions. From various source
 53. LeetCode (Hard) - Regular Expression Matching [[link](https://leetcode.com/problems/regular-expression-matching/)]
 54. LeetCode (Medium) - Container with Most Water [[link](https://leetcode.com/problems/container-with-most-water/)]
 55. LeetCode (Easy) - Roman to Integer [[link](https://leetcode.com/problems/roman-to-integer/)]
+56. LeetCode (Easy) - Longest Common Prefix [[link](https://leetcode.com/problems/longest-common-prefix/)] 
 
 ---
 
