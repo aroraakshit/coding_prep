@@ -60,6 +60,7 @@ A collection of coding interview problems with my solutions. From various source
 56. LeetCode (Easy) - Longest Common Prefix [[link](https://leetcode.com/problems/longest-common-prefix/)] 
 57. LeetCode (Medium) - Interval List Intersections [[link](https://leetcode.com/problems/interval-list-intersections/)]
 58. LeetCode (Easy) - Squares of a Sorted Array [[link](https://leetcode.com/problems/squares-of-a-sorted-array/)]
+59. LeetCode (Easy) - K Closest points to the origin [[link](https://leetcode.com/problems/k-closest-points-to-origin/)]
 
 ---
 
@@ -71,3 +72,29 @@ Other Resources:
 4. Problem Solving with Algorithms and Data Structures using C++ [[link](https://runestone.academy/runestone/static/cppds/index.html)]
 5. Algs4cs Princeton [[link](https://algs4.cs.princeton.edu/lectures/)]
 6. Union Find - HackerEarth [[link](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)]
+
+---
+
+## Common Patterns
+
+Arrays/Lists/Strings:
+
+- Two pointers (left/right, slow/fast)
+
+Graphs/Trees:
+
+- DFS (Iterative and Recursive) / O(V+E)
+- BFS (Iterative and Recursive)
+- Inorder Traversal (Iterative and Recursive)
+- Preorder Traversal (Iterative and Recursive)
+- Postorder Traversal (Iterative and Recursive)
+- Kosaraju's Algorithm for Strongly Connected Components
+- Union-Find Algorithm for Cycle Detection in Undirected Graphs
+- Cycle detection in directed graphs using Colors / DFS stack
+- Bridges in a graph
+- Prim's Algorithm, Kruskal Algorithm: Minimum spanning tree
+- Dijkstra's Algorithm - Shortest path from origin to every other node in graph / Greedy / O(ELogV) / only non-negative weights
+- Bellman Ford Algorithm - Shortest path from origin to every other node in graph / DP / O(VE)
+- Topological Sort for a directed graph
+- Floyd Warshall Algorithm - All pairs shortest path
+- Kirchhoff’s Theorem - Calculating number of Spanning trees Of a Graph
