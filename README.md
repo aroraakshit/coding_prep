@@ -61,6 +61,7 @@ A collection of coding interview problems with my solutions. From various source
 57. LeetCode (Medium) - Interval List Intersections [[link](https://leetcode.com/problems/interval-list-intersections/)]
 58. LeetCode (Easy) - Squares of a Sorted Array [[link](https://leetcode.com/problems/squares-of-a-sorted-array/)]
 59. LeetCode (Easy) - K Closest points to the origin [[link](https://leetcode.com/problems/k-closest-points-to-origin/)]
+60. LeetCode (Medium) - Shortest Bridge [[link](https://leetcode.com/problems/shortest-bridge/)]
 
 ---
 
