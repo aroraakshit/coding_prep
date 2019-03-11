@@ -1,4 +1,4 @@
-# 304 ms, credits: https://blog.csdn.net/fuxuemingzhu/article/details/81807215 
+# 304 ms, credits: https://blog.csdn.net/fuxuemingzhu/article/details/81807215, python2
 
 import random
 import numpy as np

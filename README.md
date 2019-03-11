@@ -63,6 +63,7 @@ A collection of coding interview problems with my solutions. From various source
 59. LeetCode (Easy) - K Closest points to the origin [[link](https://leetcode.com/problems/k-closest-points-to-origin/)]
 60. LeetCode (Medium) - Shortest Bridge [[link](https://leetcode.com/problems/shortest-bridge/)]
 61. LeetCode (Medium) - Random Pick with Weight [[link](https://leetcode.com/problems/random-pick-with-weight/)]
+62. LeetCode (Hard) - Consecutive Numbers Sum [[link](https://leetcode.com/problems/consecutive-numbers-sum/)]
 
 ---
 
