@@ -67,6 +67,7 @@ A collection of coding interview problems with my solutions. From various source
 63. LeetCode (Hard) - Bus Routes [[link](https://leetcode.com/problems/bus-routes/)]
 64. LeetCode (Hard) - Reaching Points [[link](https://leetcode.com/problems/reaching-points/)]
 65. LeetCode (Easy) - Construct Quad Tree [[link](https://leetcode.com/problems/construct-quad-tree/)]
+66. LeetCode (Hard) - Serialize and Deserialize N-ary Tree [[link](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)]
 
 ---
 
