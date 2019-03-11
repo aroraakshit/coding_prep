@@ -64,6 +64,8 @@ A collection of coding interview problems with my solutions. From various source
 60. LeetCode (Medium) - Shortest Bridge [[link](https://leetcode.com/problems/shortest-bridge/)]
 61. LeetCode (Medium) - Random Pick with Weight [[link](https://leetcode.com/problems/random-pick-with-weight/)]
 62. LeetCode (Hard) - Consecutive Numbers Sum [[link](https://leetcode.com/problems/consecutive-numbers-sum/)]
+63. LeetCode (Hard) - Bus Routes [[link](https://leetcode.com/problems/bus-routes/)]
+64. LeetCode (Hard) - Reaching Points [[link](https://leetcode.com/problems/reaching-points/)]
 
 ---
 
