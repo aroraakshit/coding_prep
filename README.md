@@ -66,6 +66,7 @@ A collection of coding interview problems with my solutions. From various source
 62. LeetCode (Hard) - Consecutive Numbers Sum [[link](https://leetcode.com/problems/consecutive-numbers-sum/)]
 63. LeetCode (Hard) - Bus Routes [[link](https://leetcode.com/problems/bus-routes/)]
 64. LeetCode (Hard) - Reaching Points [[link](https://leetcode.com/problems/reaching-points/)]
+65. LeetCode (Easy) - Construct Quad Tree [[link](https://leetcode.com/problems/construct-quad-tree/)]
 
 ---
 
