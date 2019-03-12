@@ -23,7 +23,7 @@ class Solution(object):
                 heapq.heappush(pq, (schedule[e_id][e_jx+1].start, e_id, e_jx+1))
         return ans
 
-class Solution(object):
+class Solution(object):# credits - LeetCode
     def employeeFreeTime(self, schedule):
         """
         :type schedule: List[List[Interval]]

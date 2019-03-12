@@ -69,6 +69,7 @@ A collection of coding interview problems with my solutions. From various source
 65. LeetCode (Easy) - Construct Quad Tree [[link](https://leetcode.com/problems/construct-quad-tree/)]
 66. LeetCode (Hard) - Serialize and Deserialize N-ary Tree [[link](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)]
 67. LeetCode (Hard) - Employee Free Time [[link](https://leetcode.com/problems/employee-free-time/)]
+68. LeetCode (Hard) - Cherry Pickup [[link](https://leetcode.com/problems/cherry-pickup/)]
 
 ---
 
