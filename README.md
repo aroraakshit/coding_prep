@@ -70,6 +70,7 @@ A collection of coding interview problems with my solutions. From various source
 66. LeetCode (Hard) - Serialize and Deserialize N-ary Tree [[link](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)]
 67. LeetCode (Hard) - Employee Free Time [[link](https://leetcode.com/problems/employee-free-time/)]
 68. LeetCode (Hard) - Cherry Pickup [[link](https://leetcode.com/problems/cherry-pickup/)]
+69. LeetCode (Medium) - Max Area of Island [[link](https://leetcode.com/problems/max-area-of-island/)]
 
 ---
 
