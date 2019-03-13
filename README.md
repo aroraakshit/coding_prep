@@ -72,6 +72,7 @@ A collection of coding interview problems with my solutions. From various source
 68. LeetCode (Hard) - Cherry Pickup [[link](https://leetcode.com/problems/cherry-pickup/)]
 69. LeetCode (Medium) - Max Area of Island [[link](https://leetcode.com/problems/max-area-of-island/)]
 70. LeetCode (Hard) - 24 Game [[link](https://leetcode.com/problems/24-game/)]
+71. LeetCode (Medium) - Find K Closest Elements [[link](https://leetcode.com/problems/find-k-closest-elements/)]
 
 ---
 
