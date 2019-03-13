@@ -73,6 +73,7 @@ A collection of coding interview problems with my solutions. From various source
 69. LeetCode (Medium) - Max Area of Island [[link](https://leetcode.com/problems/max-area-of-island/)]
 70. LeetCode (Hard) - 24 Game [[link](https://leetcode.com/problems/24-game/)]
 71. LeetCode (Medium) - Find K Closest Elements [[link](https://leetcode.com/problems/find-k-closest-elements/)]
+72. LeetCode (Medium) - Print Binary Tree [[link](https://leetcode.com/problems/print-binary-tree)]
 
 ---
 
