@@ -77,7 +77,8 @@ A collection of coding interview problems with my solutions. From various source
 73. LeetCode (Medium) - Exclusive Time of Functions [[link](https://leetcode.com/problems/exclusive-time-of-functions/)]
 74. LeetCode (Medium) - Task Scheduler [[link](https://leetcode.com/problems/task-scheduler/)]
 75. LeetCode (Medium) - 01 Matrix [[link](https://leetcode.com/problems/01-matrix/)]
-76. LeetCode (Hard) - Expression Add Operators [[link]](https://leetcode.com/problems/expression-add-operators/)
+76. LeetCode (Hard) - Expression Add Operators [[link](https://leetcode.com/problems/expression-add-operators/)]
+77. LeetCode (Medium) - The Maze [[link](https://leetcode.com/problems/the-maze/)]
 
 ---
 
