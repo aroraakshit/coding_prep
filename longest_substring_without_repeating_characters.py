@@ -7,7 +7,7 @@ class Solution(object):
         """
         i = 0
         j = 1
-        if st == '': return 0;
+        if st == '': return 0
         
         le = [1]
         while j < len(st):
