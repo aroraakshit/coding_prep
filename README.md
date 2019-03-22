@@ -83,7 +83,8 @@ A collection of coding interview problems with my solutions. From various source
 79. LeetCode (Medium) - Sort Characters By Frequency [[link](https://leetcode.com/problems/sort-characters-by-frequency/)]
 80. LeetCode (Easy) - Path Sum III [[link](https://leetcode.com/problems/path-sum-iii/)]
 81. LeetCode (Medium) - Reconstruct Itineraries [[link](https://leetcode.com/problems/reconstruct-itinerary/)]
-82. LeetCode (Medium) - Flatten a Multilevel Doubly Linked List [[link](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)]
+82. LeetCode (Medium) - Flatten a Multilevel Doubly Linked List [[link](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)] (DFS)
+83. LeetCode (Hard) - Reverse Pairs [[link](https://leetcode.com/problems/reverse-pairs/)] (Fenwick Trees / BIT Trees)
 
 ---
 
