@@ -84,7 +84,8 @@ A collection of coding interview problems with my solutions. From various source
 80. LeetCode (Easy) - Path Sum III [[link](https://leetcode.com/problems/path-sum-iii/)]
 81. LeetCode (Medium) - Reconstruct Itineraries [[link](https://leetcode.com/problems/reconstruct-itinerary/)]
 82. LeetCode (Medium) - Flatten a Multilevel Doubly Linked List [[link](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)] (DFS)
-83. LeetCode (Hard) - Reverse Pairs [[link](https://leetcode.com/problems/reverse-pairs/)] (Fenwick Trees / BIT Trees)
+83. LeetCode (Hard) - Reverse Pairs [[link](https://leetcode.com/problems/reverse-pairs/)] ([Fenwick Trees / BIT Trees](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/))
+84. LeetCode (Hard) - Optimal Account Balancing [[link](https://leetcode.com/problems/optimal-account-balancing/)] ([Settling Debts Paper/ 3-partition problem - Optimal](http://www.mathmeth.com/tom/files/settling-debts.pdf), [Greedy](https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/), [Clique Reduction/BFS](https://cs.stackexchange.com/questions/46968/self-reducibility-of-clique))
 
 ---
 
