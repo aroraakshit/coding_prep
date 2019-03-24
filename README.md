@@ -92,6 +92,7 @@ A collection of coding interview problems with my solutions. From various source
 88. LeetCode (Medium) - Encode and Decode TinyURL [[link](https://leetcode.com/problems/encode-and-decode-tinyurl/)]
 89. LeetCode (Hard) - Number of Islands II [[link](https://leetcode.com/problems/number-of-islands-ii/)]
 90. LeetCode (Easy) - Shortest Word Distance [[link](https://leetcode.com/problems/shortest-word-distance/)]
+91. LeetCode (Easy) - Intersection of Two Arrays [[link](https://leetcode.com/problems/intersection-of-two-arrays/)]
 
 ---
 
