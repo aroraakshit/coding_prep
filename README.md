@@ -96,6 +96,7 @@ A collection of coding interview problems with my solutions. From various source
 92. LeetCode (Medium) - Decode Ways [[link](https://leetcode.com/problems/decode-ways/)]
 93. LeetCode (Hard) - Longest Consecutive Sequence [[link](https://leetcode.com/problems/longest-consecutive-sequence/)] (UnionFind, Ad-hoc)
 94. LeetCode (Medium) - Remove Nth Node From End Of List [[link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)]
+95. LeetCode (Hard) - Integer to English Words [[link](https://leetcode.com/problems/integer-to-english-words/)]
 
 ---
 
