@@ -94,6 +94,7 @@ A collection of coding interview problems with my solutions. From various source
 90. LeetCode (Easy) - Shortest Word Distance [[link](https://leetcode.com/problems/shortest-word-distance/)]
 91. LeetCode (Easy) - Intersection of Two Arrays [[link](https://leetcode.com/problems/intersection-of-two-arrays/)]
 92. LeetCode (Medium) - Decode Ways [[link](https://leetcode.com/problems/decode-ways/)]
+93. LeetCode (Hard) - Longest Consecutive Sequence [[link](https://leetcode.com/problems/longest-consecutive-sequence/)]
 
 ---
 
