@@ -87,7 +87,8 @@ A collection of coding interview problems with my solutions. From various source
 83. LeetCode (Hard) - Reverse Pairs [[link](https://leetcode.com/problems/reverse-pairs/)] ([Fenwick Trees / BIT Trees](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/))
 84. LeetCode (Hard) - Optimal Account Balancing [[link](https://leetcode.com/problems/optimal-account-balancing/)] ([Settling Debts Paper/ 3-partition problem - Optimal](http://www.mathmeth.com/tom/files/settling-debts.pdf), [Greedy](https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/), [Clique Reduction/BFS, Fastest](https://cs.stackexchange.com/questions/46968/self-reducibility-of-clique))
 85. LeetCode (Hard) - LFU Cache [[link](https://leetcode.com/problems/lfu-cache/)] ([OrderedDict used as a queue](https://docs.python.org/3/library/collections.html#collections.OrderedDict))
-86. LeetCode (Hard) - Basic Calculator III [[link](https://leetcode.com/problems/basic-calculator-iii/)] (See discussion_basic_Calculator.pdf, ][python3 iter](https://docs.python.org/3/library/functions.html#iter))
+86. LeetCode (Hard) - Basic Calculator III [[link](https://leetcode.com/problems/basic-calculator-iii/)] (See discussion_basic_Calculator.pdf, [python3 iter](https://docs.python.org/3/library/functions.html#iter))
+87. LeetCode (Easy) - Logger Rate Limiter [[link](https://leetcode.com/problems/logger-rate-limiter/)]
 
 ---
 
@@ -106,7 +107,9 @@ Other Resources:
 
 Arrays/Lists/Strings:
 
-- Two pointers (left/right, slow/fast)
+- Two pointers (left/right, slow/fast)  
+- Ordered Dictionaries in Python (LRU Cache, LFU Cache)
+- Zero Sum Clique Reduction (Optimal Account Balancing, Minimum Cash Flow)
 
 Graphs/Trees:
 

@@ -135,15 +135,14 @@ class Solution:
 import sys
 from collections import deque, defaultdict
 class Solution:
-    
     def minTransfers(self, trans):
         debt = defaultdict(int)
         for i, j, k in trans: debt[i] -= k; debt[j] += k
         debt = list(filter(None, debt.values()))
-
         def SplitDebt():
             cset, Q = set(), deque([([0], debt[0])])
             while Q:
+                print(Q)
                 cset, csum = Q.popleft()
                 if csum == 0: break
                 for j in range(cset[-1] + 1, len(debt)):
@@ -151,7 +150,9 @@ class Solution:
             if not cset: return False
             debt[:] = [debt[i] for i in set(range(len(debt))) - set(cset)]
             return True
-
-        res = len(debt)
-        while debt and SplitDebt(): res -= 1
+        res = len(debt) # at least the number of positive numbers in debt
+        # print(debt)
+        while debt and SplitDebt(): 
+            print(debt)
+            res -= 1
         return res
