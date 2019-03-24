@@ -89,6 +89,7 @@ A collection of coding interview problems with my solutions. From various source
 85. LeetCode (Hard) - LFU Cache [[link](https://leetcode.com/problems/lfu-cache/)] ([OrderedDict used as a queue](https://docs.python.org/3/library/collections.html#collections.OrderedDict))
 86. LeetCode (Hard) - Basic Calculator III [[link](https://leetcode.com/problems/basic-calculator-iii/)] (See discussion_basic_Calculator.pdf, [python3 iter](https://docs.python.org/3/library/functions.html#iter))
 87. LeetCode (Easy) - Logger Rate Limiter [[link](https://leetcode.com/problems/logger-rate-limiter/)]
+88. LeetCode (Medium) - Encode and Decode TinyURL [[link](https://leetcode.com/problems/encode-and-decode-tinyurl/)]
 
 ---
 

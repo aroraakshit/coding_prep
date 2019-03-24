@@ -3,7 +3,7 @@ class moddict(dict):
     def __missing__(self, key):
         return -1
     
-class Logger:
+class Logger: # 96ms
 
     def __init__(self):
         """
