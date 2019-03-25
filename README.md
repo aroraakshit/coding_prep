@@ -97,6 +97,8 @@ A collection of coding interview problems with my solutions. From various source
 93. LeetCode (Hard) - Longest Consecutive Sequence [[link](https://leetcode.com/problems/longest-consecutive-sequence/)] (UnionFind, Ad-hoc)
 94. LeetCode (Medium) - Remove Nth Node From End Of List [[link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)] (Two Pointers)
 95. LeetCode (Hard) - Integer to English Words [[link](https://leetcode.com/problems/integer-to-english-words/)] (Divide and Conquer)
+96. LeetCode (Medium) - Fraction to Recurring Decimal [[link](https://leetcode.com/problems/fraction-to-recurring-decimal/)]
+97. LeetCode (Medium) - Surrounded Regions [[link](https://leetcode.com/problems/surrounded-regions/)] (BFS)
 
 ---
 
@@ -119,10 +121,16 @@ Arrays/Lists/Strings:
 - Ordered Dictionaries in Python (LRU Cache, LFU Cache)
 - Zero Sum Clique Reduction (Optimal Account Balancing, Minimum Cash Flow)
 
+Ad Hoc:
+
+- Fraction to Recurring Decimal
+- Integer to English Word
+
 Graphs/Trees:
 
 - DFS (Iterative and Recursive) / O(V+E)
 - BFS (Iterative and Recursive)
+    - Surrounded Regions
 - Inorder Traversal (Iterative and Recursive)
 - Preorder Traversal (Iterative and Recursive)
 - Postorder Traversal (Iterative and Recursive)
