@@ -129,6 +129,7 @@ Arrays/Lists/Strings:
 - Two pointers (left/right, slow/fast)  
 - Ordered Dictionaries in Python (LRU Cache, LFU Cache)
 - Zero Sum Clique Reduction (Optimal Account Balancing, Minimum Cash Flow)
+- Merge Intervals, Insert Interval (based on Sorting)
 
 Stacks & Queues:
 
