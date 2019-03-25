@@ -106,6 +106,8 @@ A collection of coding interview problems with my solutions. From various source
 102. LeetCode (Medium) - Multiply Strings [[link](https://leetcode.com/problems/multiply-strings/)]
 103. LeetCode (Easy) - Linked List Cycle [[link](https://leetcode.com/problems/linked-list-cycle/)]
 104. LeetCode (Easy) - Excel Sheet Column Number [[link](https://leetcode.com/problems/excel-sheet-column-number/)]
+105. LeetCode (Medium) - Letter Combinations of a Phone Number [[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)]
+106. LeetCode (Hard) - Insert Interval [[link](https://leetcode.com/problems/insert-interval/)]
 
 ---
 
@@ -131,6 +133,10 @@ Arrays/Lists/Strings:
 Stacks & Queues:
 
 - Design Snake Game (Queues)
+
+Backtracking:
+
+- Letter Combinations of a Phone Number
 
 Ad Hoc:
 
