@@ -100,6 +100,8 @@ A collection of coding interview problems with my solutions. From various source
 96. LeetCode (Medium) - Fraction to Recurring Decimal [[link](https://leetcode.com/problems/fraction-to-recurring-decimal/)]
 97. LeetCode (Medium) - Surrounded Regions [[link](https://leetcode.com/problems/surrounded-regions/)] (BFS)
 98. LeetCode (Medium) - Word Ladder [[link](https://leetcode.com/problems/word-ladder/)] (Bi-Directional BFS)
+99. LeetCode (Medium) - Spiral Matrix [[link](https://leetcode.com/problems/spiral-matrix/)]
+100. LeetCode (Medium) - Clone Graph [[link](https://leetcode.com/problems/clone-graph/)]
 
 ---
 
@@ -126,14 +128,17 @@ Ad Hoc:
 
 - Fraction to Recurring Decimal
 - Integer to English Word
+- Spiral Matrix (yield keyword, generator perspective)
 
 Graphs/Trees:
 
 - DFS (Iterative and Recursive) / O(V+E)
+    - Clone Graph (recursive)
 - BFS (Iterative and Recursive)
     - Surrounded Regions
     - Word Ladder (Bi-directional BFS)
     - Optimal Account Balancing
+    - Clone Graph (iterative)
 - Inorder Traversal (Iterative and Recursive)
 - Preorder Traversal (Iterative and Recursive)
 - Postorder Traversal (Iterative and Recursive)
