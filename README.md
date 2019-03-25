@@ -99,6 +99,7 @@ A collection of coding interview problems with my solutions. From various source
 95. LeetCode (Hard) - Integer to English Words [[link](https://leetcode.com/problems/integer-to-english-words/)] (Divide and Conquer)
 96. LeetCode (Medium) - Fraction to Recurring Decimal [[link](https://leetcode.com/problems/fraction-to-recurring-decimal/)]
 97. LeetCode (Medium) - Surrounded Regions [[link](https://leetcode.com/problems/surrounded-regions/)] (BFS)
+98. LeetCode (Medium) - Word Ladder [[link](https://leetcode.com/problems/word-ladder/)] (Bi-Directional BFS)
 
 ---
 
@@ -131,6 +132,8 @@ Graphs/Trees:
 - DFS (Iterative and Recursive) / O(V+E)
 - BFS (Iterative and Recursive)
     - Surrounded Regions
+    - Word Ladder (Bi-directional BFS)
+    - Optimal Account Balancing
 - Inorder Traversal (Iterative and Recursive)
 - Preorder Traversal (Iterative and Recursive)
 - Postorder Traversal (Iterative and Recursive)
