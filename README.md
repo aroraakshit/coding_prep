@@ -102,6 +102,8 @@ A collection of coding interview problems with my solutions. From various source
 98. LeetCode (Medium) - Word Ladder [[link](https://leetcode.com/problems/word-ladder/)] (Bi-Directional BFS)
 99. LeetCode (Medium) - Spiral Matrix [[link](https://leetcode.com/problems/spiral-matrix/)]
 100. LeetCode (Medium) - Clone Graph [[link](https://leetcode.com/problems/clone-graph/)]
+101. LeetCode (Medium) - Design Snake Game [[link](https://leetcode.com/problems/design-snake-game/)]
+102. LeetCode (Medium) - Multiply Strings [[link](https://leetcode.com/problems/multiply-strings/)]
 
 ---
 
@@ -123,6 +125,10 @@ Arrays/Lists/Strings:
 - Two pointers (left/right, slow/fast)  
 - Ordered Dictionaries in Python (LRU Cache, LFU Cache)
 - Zero Sum Clique Reduction (Optimal Account Balancing, Minimum Cash Flow)
+
+Stacks & Queues:
+
+- Design Snake Game (Queues)
 
 Ad Hoc:
 
