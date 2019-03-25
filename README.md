@@ -105,6 +105,7 @@ A collection of coding interview problems with my solutions. From various source
 101. LeetCode (Medium) - Design Snake Game [[link](https://leetcode.com/problems/design-snake-game/)]
 102. LeetCode (Medium) - Multiply Strings [[link](https://leetcode.com/problems/multiply-strings/)]
 103. LeetCode (Easy) - Linked List Cycle [[link](https://leetcode.com/problems/linked-list-cycle/)]
+104. LeetCode (Easy) - Excel Sheet Column Number [[link](https://leetcode.com/problems/excel-sheet-column-number/)]
 
 ---
 
