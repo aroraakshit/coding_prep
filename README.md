@@ -111,6 +111,7 @@ A collection of coding interview problems with my solutions. From various source
 107. LeetCode (Easy) - Jewels and Stones [[link](https://leetcode.com/problems/jewels-and-stones/)]
 108. LeetCode (Medium) - Friend Circles [[link](https://leetcode.com/problems/friend-circles/)] (Union-Find)
 109. LeetCode (Medium) - Add and Search Word - Data structure design [[link](https://leetcode.com/problems/add-and-search-word-data-structure-design/)] (Trie)
+110. LeetCode (Medium) - Bomb Enemy [[link](https://leetcode.com/problems/bomb-enemy/)]
 
 ---
 
@@ -136,7 +137,7 @@ Arrays/Lists/Strings:
 
 Trie / Prefix Search
 
-- Add and Search Word*
+- Add and Search Word
 
 Stacks & Queues:
 
@@ -174,3 +175,16 @@ Graphs/Trees:
 - Topological Sort for a directed graph
 - Floyd Warshall Algorithm - All pairs shortest path
 - Kirchhoff’s Theorem - Calculating number of Spanning trees Of a Graph
+
+Python
+
+- List Comprehensions (Bomb Enemy)
+- zip(*(grid)) generator for transpose (Bomb Enemy)
+- Iterators / Ordered Dict (LRU Cache)
+- Generator objects
+- xor (^)
+- heapify package
+
+C++
+
+- Shortforms [[link](https://gist.github.com/aroraakshit/e8f9d45862cf85ec7b698a679ea37748)]
