@@ -109,7 +109,8 @@ A collection of coding interview problems with my solutions. From various source
 105. LeetCode (Medium) - Letter Combinations of a Phone Number [[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)]
 106. LeetCode (Hard) - Insert Interval [[link](https://leetcode.com/problems/insert-interval/)]
 107. LeetCode (Easy) - Jewels and Stones [[link](https://leetcode.com/problems/jewels-and-stones/)]
-108. LeetCode (Medium) - Friend Circles [[link](https://leetcode.com/problems/friend-circles/)]
+108. LeetCode (Medium) - Friend Circles [[link](https://leetcode.com/problems/friend-circles/)] (Union-Find)
+109. LeetCode (Medium) - Add and Search Word - Data structure design [[link](https://leetcode.com/problems/add-and-search-word-data-structure-design/)] (Trie)
 
 ---
 
@@ -132,6 +133,10 @@ Arrays/Lists/Strings:
 - Ordered Dictionaries in Python (LRU Cache, LFU Cache)
 - Zero Sum Clique Reduction (Optimal Account Balancing, Minimum Cash Flow)
 - Merge Intervals, Insert Interval (based on Sorting)
+
+Trie / Prefix Search
+
+- Add and Search Word*
 
 Stacks & Queues:
 
