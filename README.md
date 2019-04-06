@@ -108,6 +108,8 @@ A collection of coding interview problems with my solutions. From various source
 104. LeetCode (Easy) - Excel Sheet Column Number [[link](https://leetcode.com/problems/excel-sheet-column-number/)]
 105. LeetCode (Medium) - Letter Combinations of a Phone Number [[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)]
 106. LeetCode (Hard) - Insert Interval [[link](https://leetcode.com/problems/insert-interval/)]
+107. LeetCode (Easy) - Jewels and Stones [[link](https://leetcode.com/problems/jewels-and-stones/)]
+108. LeetCode (Medium) - Friend Circles [[link](https://leetcode.com/problems/friend-circles/)]
 
 ---
 
