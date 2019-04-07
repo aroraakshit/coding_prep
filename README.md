@@ -113,6 +113,7 @@ A collection of coding interview problems with my solutions. From various source
 109. LeetCode (Medium) - Add and Search Word - Data structure design [[link](https://leetcode.com/problems/add-and-search-word-data-structure-design/)] (Trie)
 110. LeetCode (Medium) - Bomb Enemy [[link](https://leetcode.com/problems/bomb-enemy/)] (Dynamic Programming)
 111. LeetCode (Medium) - Coin Change [[link](https://leetcode.com/problems/coin-change/)] (Dynamic Programming, DFS)
+112. LeetCode (Medium) - Longest Increasing Subsequence [[link](https://leetcode.com/problems/longest-increasing-subsequence/)] (Dynamic Programming, Binary Search)
 
 ---
 
@@ -189,8 +190,9 @@ Python
 - zip(*(grid)) generator for transpose (Bomb Enemy)
 - Iterators / Ordered Dict (LRU Cache)
 - Generator objects
-- xor (^)
-- heapify package
+- xor (^) (Adding Two Numbers, Fraction Recurring Decimal, Single Number_2)
+- heapq package (Employee Free Time, Kth Largest Element)
+- bisect package - helps with binary search (Reverse Pairs, Three Sum, Longest Increasing Subsequence)
 
 C++
 
