@@ -111,7 +111,8 @@ A collection of coding interview problems with my solutions. From various source
 107. LeetCode (Easy) - Jewels and Stones [[link](https://leetcode.com/problems/jewels-and-stones/)]
 108. LeetCode (Medium) - Friend Circles [[link](https://leetcode.com/problems/friend-circles/)] (Union-Find)
 109. LeetCode (Medium) - Add and Search Word - Data structure design [[link](https://leetcode.com/problems/add-and-search-word-data-structure-design/)] (Trie)
-110. LeetCode (Medium) - Bomb Enemy [[link](https://leetcode.com/problems/bomb-enemy/)]
+110. LeetCode (Medium) - Bomb Enemy [[link](https://leetcode.com/problems/bomb-enemy/)] (Dynamic Programming)
+111. LeetCode (Medium) - Coin Change [[link](https://leetcode.com/problems/coin-change/)] (Dynamic Programming, DFS)
 
 ---
 
@@ -147,6 +148,11 @@ Backtracking:
 
 - Letter Combinations of a Phone Number
 
+Dynamic Programming
+
+- Bomb Enemy
+- Coin Change
+
 Ad Hoc:
 
 - Fraction to Recurring Decimal
@@ -157,6 +163,7 @@ Graphs/Trees:
 
 - DFS (Iterative and Recursive) / O(V+E)
     - Clone Graph (recursive)
+    - Coin Change
 - BFS (Iterative and Recursive)
     - Surrounded Regions
     - Word Ladder (Bi-directional BFS)
