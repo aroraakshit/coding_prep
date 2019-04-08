@@ -115,6 +115,7 @@ A collection of coding interview problems with my solutions. From various source
 111. LeetCode (Medium) - Coin Change [[link](https://leetcode.com/problems/coin-change/)] (Dynamic Programming, DFS)
 112. LeetCode (Medium) - Longest Increasing Subsequence [[link](https://leetcode.com/problems/longest-increasing-subsequence/)] (Dynamic Programming, Binary Search)
 113. LeetCode (Medium) - Wiggle Subsequence [[link](https://leetcode.com/problems/wiggle-subsequence/)] (Greedy Algorithm)
+114. LeetCode (Medium) - Course Schedule [[link](https://leetcode.com/problems/course-schedule/)] ([Detect cycle in a directed graph](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/))
 
 ---
 
@@ -155,6 +156,10 @@ Dynamic Programming
 - Bomb Enemy
 - Coin Change
 
+Greedy Approach
+
+- Wiggle Subsequence
+
 Ad Hoc:
 
 - Fraction to Recurring Decimal
@@ -166,6 +171,7 @@ Graphs/Trees:
 - DFS (Iterative and Recursive) / O(V+E)
     - Clone Graph (recursive)
     - Coin Change
+    - Detect Cycle in a directed graph / Course Schedule
 - BFS (Iterative and Recursive)
     - Surrounded Regions
     - Word Ladder (Bi-directional BFS)
