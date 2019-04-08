@@ -118,6 +118,7 @@ A collection of coding interview problems with my solutions. From various source
 114. LeetCode (Medium) - Course Schedule [[link](https://leetcode.com/problems/course-schedule/)] ([Detect cycle in a directed graph](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/))
 115. LeetCode (Medium) - Course Schedule II [[link](https://leetcode.com/problems/course-schedule-ii/)] ([Topological Sort](https://www.youtube.com/watch?v=ddTC4Zovtbc), Cycle Detection in 114.)
 116. LeetCode (Medium) - Word Search [[link](https://leetcode.com/problems/word-search/)] (Backtracking)
+117. LeetCode (Medium) - Permutations II [[link](https://leetcode.com/problems/permutations-ii/)] (Backtracking)
 
 ---
 
@@ -154,6 +155,7 @@ Backtracking:
 - Letter Combinations of a Phone Number
 - Word Search
 - Add and Search Word - Data structure design
+- Permutations II
 
 Dynamic Programming
 
@@ -197,7 +199,7 @@ Graphs/Trees:
 
 Python
 
-- List Comprehensions (Bomb Enemy)
+- List Comprehensions (Bomb Enemy, Permutations II)
 - zip(*(grid)) generator for transpose (Bomb Enemy)
 - Iterators / Ordered Dict (LRU Cache)
 - Generator objects
