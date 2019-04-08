@@ -114,6 +114,7 @@ A collection of coding interview problems with my solutions. From various source
 110. LeetCode (Medium) - Bomb Enemy [[link](https://leetcode.com/problems/bomb-enemy/)] (Dynamic Programming)
 111. LeetCode (Medium) - Coin Change [[link](https://leetcode.com/problems/coin-change/)] (Dynamic Programming, DFS)
 112. LeetCode (Medium) - Longest Increasing Subsequence [[link](https://leetcode.com/problems/longest-increasing-subsequence/)] (Dynamic Programming, Binary Search)
+113. LeetCode (Medium) - Wiggle Subsequence [[link](https://leetcode.com/problems/wiggle-subsequence/)] (Greedy Algorithm)
 
 ---
 
@@ -193,6 +194,7 @@ Python
 - xor (^) (Adding Two Numbers, Fraction Recurring Decimal, Single Number_2)
 - heapq package (Employee Free Time, Kth Largest Element)
 - bisect package - helps with binary search (Reverse Pairs, Three Sum, Longest Increasing Subsequence)
+- reverse a list a[::-1]
 
 C++
 
