@@ -120,6 +120,7 @@ A collection of coding interview problems with my solutions. From various source
 116. LeetCode (Medium) - Word Search [[link](https://leetcode.com/problems/word-search/)] (Backtracking)
 117. LeetCode (Medium) - Permutations II [[link](https://leetcode.com/problems/permutations-ii/)] (Backtracking)
 118. LeetCode (Medium) - Palindrome Partitioning [[link](https://leetcode.com/problems/palindrome-partitioning/)] (Backtracking)
+119. LeetCode (Medium) - Compare Version Numbers [[link](https://leetcode.com/problems/compare-version-numbers/)]
 
 ---
 
@@ -209,6 +210,7 @@ Python
 - heapq package (Employee Free Time, Kth Largest Element)
 - bisect package - helps with binary search (Reverse Pairs, Three Sum, Longest Increasing Subsequence)
 - reverse a list a[::-1]
+- zip function (Compare Version Numbers)
 
 C++
 
