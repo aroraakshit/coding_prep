@@ -123,7 +123,8 @@ A collection of coding interview problems with my solutions. From various source
 119. LeetCode (Medium) - Compare Version Numbers [[link](https://leetcode.com/problems/compare-version-numbers/)] (String Manipulation)
 120. LeetCode (Medium) - Largest Number [[link](https://leetcode.com/problems/largest-number/)] (Sorting, String/Arrays, custom comparator op)
 121. LeetCode (Medium) - Nth Highest Salary [[link](https://leetcode.com/problems/nth-highest-salary/)] (SQL)
-122. LeetCode (Medium) - Remove K Digits [[link](https://leetcode.com/problems/remove-k-digits/)]
+122. LeetCode (Medium) - Remove K Digits [[link](https://leetcode.com/problems/remove-k-digits/)] (Greedy Algorithm, Stacks, Monotonically Increasing Sequence)
+123. LeetCode (Medium) - Pow(x,n) [[link](https://leetcode.com/problems/powx-n/)] (Divide and Conquer-ish)
 
 ---
 
