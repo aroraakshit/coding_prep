@@ -120,7 +120,8 @@ A collection of coding interview problems with my solutions. From various source
 116. LeetCode (Medium) - Word Search [[link](https://leetcode.com/problems/word-search/)] (Backtracking)
 117. LeetCode (Medium) - Permutations II [[link](https://leetcode.com/problems/permutations-ii/)] (Backtracking)
 118. LeetCode (Medium) - Palindrome Partitioning [[link](https://leetcode.com/problems/palindrome-partitioning/)] (Backtracking)
-119. LeetCode (Medium) - Compare Version Numbers [[link](https://leetcode.com/problems/compare-version-numbers/)]
+119. LeetCode (Medium) - Compare Version Numbers [[link](https://leetcode.com/problems/compare-version-numbers/)] (String Manipulation)
+120. LeetCode (Medium) - Largest Number [[link](https://leetcode.com/problems/largest-number/)] (Sorting, String/Arrays, custom comparator op)
 
 ---
 
@@ -143,6 +144,7 @@ Arrays/Lists/Strings:
 - Ordered Dictionaries in Python (LRU Cache, LFU Cache)
 - Zero Sum Clique Reduction (Optimal Account Balancing, Minimum Cash Flow)
 - Merge Intervals, Insert Interval (based on Sorting)
+- Largest Number (Custom Comparator operator, Python's map function)
 
 Trie / Prefix Search
 
