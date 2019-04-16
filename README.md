@@ -122,6 +122,8 @@ A collection of coding interview problems with my solutions. From various source
 118. LeetCode (Medium) - Palindrome Partitioning [[link](https://leetcode.com/problems/palindrome-partitioning/)] (Backtracking)
 119. LeetCode (Medium) - Compare Version Numbers [[link](https://leetcode.com/problems/compare-version-numbers/)] (String Manipulation)
 120. LeetCode (Medium) - Largest Number [[link](https://leetcode.com/problems/largest-number/)] (Sorting, String/Arrays, custom comparator op)
+121. LeetCode (Medium) - Nth Highest Salary [[link](https://leetcode.com/problems/nth-highest-salary/)] (SQL)
+122. LeetCode (Medium) - Remove K Digits [[link](https://leetcode.com/problems/remove-k-digits/)]
 
 ---
 
@@ -153,6 +155,7 @@ Trie / Prefix Search
 Stacks & Queues:
 
 - Design Snake Game (Queues)
+- Remove K Digits (Stacks and Greedy algorithm)
 
 Backtracking:
 
@@ -170,6 +173,7 @@ Dynamic Programming
 Greedy Approach
 
 - Wiggle Subsequence
+- Remove K Digits
 
 Ad Hoc:
 
