@@ -119,6 +119,7 @@ A collection of coding interview problems with my solutions. From various source
 115. LeetCode (Medium) - Course Schedule II [[link](https://leetcode.com/problems/course-schedule-ii/)] ([Topological Sort](https://www.youtube.com/watch?v=ddTC4Zovtbc), Cycle Detection in 114.)
 116. LeetCode (Medium) - Word Search [[link](https://leetcode.com/problems/word-search/)] (Backtracking)
 117. LeetCode (Medium) - Permutations II [[link](https://leetcode.com/problems/permutations-ii/)] (Backtracking)
+118. LeetCode (Medium) - Palindrome Partitioning [[link](https://leetcode.com/problems/palindrome-partitioning/)] (Backtracking)
 
 ---
 
@@ -156,6 +157,7 @@ Backtracking:
 - Word Search
 - Add and Search Word - Data structure design
 - Permutations II
+- Palindrome Partitioning
 
 Dynamic Programming
 
