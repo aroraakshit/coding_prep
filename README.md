@@ -126,6 +126,7 @@ A collection of coding interview problems with my solutions. From various source
 122. LeetCode (Medium) - Remove K Digits [[link](https://leetcode.com/problems/remove-k-digits/)] (Greedy Algorithm, Stacks, Monotonically Increasing Sequence)
 123. LeetCode (Medium) - Pow(x,n) [[link](https://leetcode.com/problems/powx-n/)] (Divide and Conquer-ish)
 124. LeetCode (Medium) - Simplify Path [[link](https://leetcode.com/problems/simplify-path/)] (Stacks)
+125. LeetCode (Easy) - Implement strStr() [[link](https://leetcode.com/problems/implement-strstr/)] (String, Rabin Karp Algorithm)
 
 ---
 
@@ -149,6 +150,7 @@ Arrays/Lists/Strings:
 - Zero Sum Clique Reduction (Optimal Account Balancing, Minimum Cash Flow)
 - Merge Intervals, Insert Interval (based on Sorting)
 - Largest Number (Custom Comparator operator, Python's map function)
+- Implement strStr() (Two pointers, Rabin Karp: Rolling Hash)
 
 Trie / Prefix Search
 
