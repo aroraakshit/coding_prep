@@ -127,6 +127,7 @@ A collection of coding interview problems with my solutions. From various source
 123. LeetCode (Medium) - Pow(x,n) [[link](https://leetcode.com/problems/powx-n/)] (Divide and Conquer-ish)
 124. LeetCode (Medium) - Simplify Path [[link](https://leetcode.com/problems/simplify-path/)] (Stacks)
 125. LeetCode (Easy) - Implement strStr() [[link](https://leetcode.com/problems/implement-strstr/)] (String, Rabin Karp Algorithm)
+126. LeetCode (Medium) - Distribute Coins in Binary Tree [[link](https://leetcode.com/problems/distribute-coins-in-binary-tree/)] (Depth First Search)
 
 ---
 
@@ -192,6 +193,7 @@ Graphs/Trees:
     - Clone Graph (recursive)
     - Coin Change
     - Detect Cycle in a directed graph / Course Schedule
+    - Distribute Coins in a Binary Tree
 - BFS (Iterative and Recursive)
     - Surrounded Regions
     - Word Ladder (Bi-directional BFS)
