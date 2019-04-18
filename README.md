@@ -129,6 +129,7 @@ A collection of coding interview problems with my solutions. From various source
 125. LeetCode (Easy) - Implement strStr() [[link](https://leetcode.com/problems/implement-strstr/)] (String, Rabin Karp Algorithm)
 126. LeetCode (Medium) - Distribute Coins in Binary Tree [[link](https://leetcode.com/problems/distribute-coins-in-binary-tree/)] (Depth First Search)
 127. LeetCode (Medium) - Decode String [[link](https://leetcode.com/problems/decode-string/)] (String/Stacks)
+128. LeetCode (Medium) - Game Of Life [[link](https://leetcode.com/problems/game-of-life/)] (Matrix/Game/Array)
 
 ---
 
@@ -153,6 +154,7 @@ Arrays/Lists/Strings:
 - Merge Intervals, Insert Interval (based on Sorting)
 - Largest Number (Custom Comparator operator, Python's map function)
 - Implement strStr() (Two pointers, Rabin Karp: Rolling Hash)
+- Game of Life
 
 Trie / Prefix Search
 
