@@ -128,6 +128,7 @@ A collection of coding interview problems with my solutions. From various source
 124. LeetCode (Medium) - Simplify Path [[link](https://leetcode.com/problems/simplify-path/)] (Stacks)
 125. LeetCode (Easy) - Implement strStr() [[link](https://leetcode.com/problems/implement-strstr/)] (String, Rabin Karp Algorithm)
 126. LeetCode (Medium) - Distribute Coins in Binary Tree [[link](https://leetcode.com/problems/distribute-coins-in-binary-tree/)] (Depth First Search)
+127. LeetCode (Medium) - Decode String [[link](https://leetcode.com/problems/decode-string/)] (String/Stacks)
 
 ---
 
@@ -162,6 +163,7 @@ Stacks & Queues:
 - Design Snake Game (Queues)
 - Remove K Digits (Stacks and Greedy algorithm)
 - Simplify Path (Stacks)
+- Decode String
 
 Backtracking:
 
