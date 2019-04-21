@@ -1,4 +1,4 @@
-class Solution: # 36ms
+class Solution: # 36ms, numbers/permutations
     def nextGreaterElement(self, n: int) -> int:
         s = str(n)
         d = [int(i) for i in s]

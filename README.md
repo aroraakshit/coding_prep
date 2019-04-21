@@ -134,6 +134,7 @@ A collection of coding interview problems with my solutions. From various source
 130. LeetCode (Hard) - Max Points on a Line [[link](https://leetcode.com/problems/max-points-on-a-line/)] (Array iteration, defining a line, duplicates resolution, checking collinearity)
 131. LeetCode (Medium) - Copy List with Random Pointer [[link](https://leetcode.com/problems/copy-list-with-random-pointer/)] (Similar to Clone Graph problem)
 132. LeetCode (Medium) - Next Greater Element III [[link](https://leetcode.com/problems/next-greater-element-iii/)]
+133. LeetCode (Medium) - Reorder List [[link](https://leetcode.com/problems/reorder-list/)] (Suturing a LinkedList, Stack)
 
 ---
 
