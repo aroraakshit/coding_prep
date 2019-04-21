@@ -106,7 +106,7 @@ A collection of coding interview problems with my solutions. From various source
 102. LeetCode (Medium) - Multiply Strings [[link](https://leetcode.com/problems/multiply-strings/)]
 103. LeetCode (Easy) - Linked List Cycle [[link](https://leetcode.com/problems/linked-list-cycle/)]
 104. LeetCode (Easy) - Excel Sheet Column Number [[link](https://leetcode.com/problems/excel-sheet-column-number/)]
-105. LeetCode (Medium) - Letter Combinations of a Phone Number [[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)]
+105. LeetCode (Medium) - Letter Combinations of a Phone Number [[link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)] (Backtracking)
 106. LeetCode (Hard) - Insert Interval [[link](https://leetcode.com/problems/insert-interval/)]
 107. LeetCode (Easy) - Jewels and Stones [[link](https://leetcode.com/problems/jewels-and-stones/)]
 108. LeetCode (Medium) - Friend Circles [[link](https://leetcode.com/problems/friend-circles/)] (Union-Find)
@@ -135,6 +135,7 @@ A collection of coding interview problems with my solutions. From various source
 131. LeetCode (Medium) - Copy List with Random Pointer [[link](https://leetcode.com/problems/copy-list-with-random-pointer/)] (Similar to Clone Graph problem)
 132. LeetCode (Medium) - Next Greater Element III [[link](https://leetcode.com/problems/next-greater-element-iii/)]
 133. LeetCode (Medium) - Reorder List [[link](https://leetcode.com/problems/reorder-list/)] (Suturing a LinkedList, Stack)
+134. LeetCode (Medium) - Restore IP Addresses [[link](https://leetcode.com/problems/restore-ip-addresses/)] (Backtracking)
 
 ---
 
@@ -179,6 +180,7 @@ Backtracking:
 - Add and Search Word - Data structure design
 - Permutations II
 - Palindrome Partitioning
+- Restore IP Addresses
 
 Dynamic Programming
 
