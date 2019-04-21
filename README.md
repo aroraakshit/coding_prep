@@ -131,8 +131,9 @@ A collection of coding interview problems with my solutions. From various source
 127. LeetCode (Medium) - Decode String [[link](https://leetcode.com/problems/decode-string/)] (String/Stacks)
 128. LeetCode (Medium) - Game Of Life [[link](https://leetcode.com/problems/game-of-life/)] (Matrix/Game/Array)
 129. LeetCode (Hard) - Word Ladder II [[link](https://leetcode.com/problems/word-ladder-ii/)] (BFS, all shortest paths between two nodes in undirected graph)
-130. LeetCode (Hard) - Max Points on a Line [[link](https://leetcode.com/problems/max-points-on-a-line/)]
-131. LeetCode (Medium) - Copy List with Random Pointer [[link](https://leetcode.com/problems/copy-list-with-random-pointer/)]
+130. LeetCode (Hard) - Max Points on a Line [[link](https://leetcode.com/problems/max-points-on-a-line/)] (Array iteration, defining a line, duplicates resolution, checking collinearity)
+131. LeetCode (Medium) - Copy List with Random Pointer [[link](https://leetcode.com/problems/copy-list-with-random-pointer/)] (Similar to Clone Graph problem)
+132. LeetCode (Medium) - Next Greater Element III [[link](https://leetcode.com/problems/next-greater-element-iii/)]
 
 ---
 
