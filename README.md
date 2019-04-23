@@ -139,6 +139,7 @@ A collection of coding interview problems with my solutions. From various source
 135. LeetCode (Hard) - Sliding Window Maximum [[link](https://leetcode.com/problems/sliding-window-maximum/)] (Dynamic Programming)
 136. LeetCode (Medium) - Partition List [[link](https://leetcode.com/problems/partition-list/)] (LinkedList)
 137. LeetCode (Medium) - Pacific Atlantic Water Flow [[link](https://leetcode.com/problems/pacific-atlantic-water-flow/)] (DFS, Similar to Longest Increasing Path in a Matrix)
+138. LeetCode (Hard) - Longest Increasing Path in a Matrix [[link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)]
 
 ---
 

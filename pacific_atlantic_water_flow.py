@@ -40,3 +40,58 @@ class Solution(object): # 196ms, Credits -  https://leetcode.com/problems/pacifi
                 continue
             self.dfs(matrix, x, y, visited, m, n)
 
+# 104ms, Credits: leetcode: same idea, launch DFS from two edges per ocean, amazing design!
+class Solution:
+    def pacificAtlantic(self, matrix: 'List[List[int]]') -> 'List[List[int]]':
+        
+        if not matrix:
+            return []
+
+        r = len(matrix)
+        c = len(matrix[0])
+        visitedP = [[False]*c for i in range(r)]
+        visitedA = [[False]*c for i in range(r)]
+        
+
+        stackP=[]
+        stackA=[]
+        for i in range(c):
+            stackP.append([0,i])
+            stackA.append([r-1,i])
+        for i in range(1,r):
+            stackP.append([i,0])
+        for i in range(r-1):
+            stackA.append([i,c-1])
+            
+        
+        while(stackP):
+            i,j = stackP.pop()
+            visitedP[i][j]=True
+            if((i+1)<r and matrix[i][j]<=matrix[i+1][j] and not visitedP[i+1][j]):
+                stackP.append([i+1,j])
+            if((i-1)>=0 and matrix[i][j]<=matrix[i-1][j] and not visitedP[i-1][j]):
+                stackP.append([i-1,j])
+            if((j+1)<c and matrix[i][j]<=matrix[i][j+1] and not visitedP[i][j+1]):
+                stackP.append([i,j+1])
+            if((j-1)>=0 and matrix[i][j]<=matrix[i][j-1] and not visitedP[i][j-1]):
+                stackP.append([i,j-1])
+                
+        while(stackA):
+            i,j = stackA.pop()
+            visitedA[i][j]=True
+            if((i+1)<r and matrix[i][j]<=matrix[i+1][j] and not visitedA[i+1][j]):
+                stackA.append([i+1,j])
+            if((i-1)>=0 and matrix[i][j]<=matrix[i-1][j] and not visitedA[i-1][j]):
+                stackA.append([i-1,j])
+            if((j+1)<c and matrix[i][j]<=matrix[i][j+1] and not visitedA[i][j+1]):
+                stackA.append([i,j+1])
+            if((j-1)>=0 and matrix[i][j]<=matrix[i][j-1] and not visitedA[i][j-1]):
+                stackA.append([i,j-1])
+                
+        outlist=[]
+        for i in range(r):
+            for j in range(c):
+                if visitedP[i][j] and visitedA[i][j]:
+                    outlist.append([i,j])
+                    
+        return outlist
