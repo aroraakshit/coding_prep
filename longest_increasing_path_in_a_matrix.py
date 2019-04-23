@@ -48,7 +48,7 @@ class Solution:
                 return visited[i][j]
             for direction in directions:
                 x, y = i + direction[0], j + direction[1]
-                if x < 0 or x >= m or y < 0 or y >= n or matrix[x][y] <= matrix[i][j]:
+                if x < 0 or x >= m or y < 0 or y >= n or matrix[x][y] <= matrix[i][j]: # note that it doesnt matter here if node was already visited
                     continue
                 else:
                     path = max(path, dfs(x,y))
