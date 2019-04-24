@@ -140,7 +140,8 @@ A collection of coding interview problems with my solutions. From various source
 136. LeetCode (Medium) - Partition List [[link](https://leetcode.com/problems/partition-list/)] (LinkedList)
 137. LeetCode (Medium) - Pacific Atlantic Water Flow [[link](https://leetcode.com/problems/pacific-atlantic-water-flow/)] (DFS, Similar to Longest Increasing Path in a Matrix)
 138. LeetCode (Hard) - Longest Increasing Path in a Matrix [[link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)] (DFS, DP/memoization)
-139. LeetCode (Easy) - Sum of Root To Leaf Binary Numbers [[link](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)]
+139. LeetCode (Easy) - Sum of Root To Leaf Binary Numbers [[link](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)] (DFS, Bit Manipulation)
+140. LeetCode (Medium) - Next Greater Node In Linked List [[link](https://leetcode.com/problems/next-greater-node-in-linked-list/)] (Stack, Arrays)
 
 ---
 
