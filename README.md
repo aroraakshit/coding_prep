@@ -144,6 +144,7 @@ A collection of coding interview problems with my solutions. From various source
 140. LeetCode (Medium) - Next Greater Node In Linked List [[link](https://leetcode.com/problems/next-greater-node-in-linked-list/)] (Stack, Arrays)
 141. LeetCode (Hard) - Subarrays with K Different Integers [[link](https://leetcode.com/problems/subarrays-with-k-different-integers/)] (Sliding Window)
 142. LeetCode (Easy) - Pairs of Songs With Total Durations Divisible by 60 [[link](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)]
+143. LeetCode (Easy) - Find the Town Judge [[link](https://leetcode.com/problems/find-the-town-judge/)]
 
 ---
 
