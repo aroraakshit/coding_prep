@@ -149,6 +149,7 @@ A collection of coding interview problems with my solutions. From various source
 145. LeetCode (Easy) - Cousins in Binary Tree [[link](https://leetcode.com/problems/cousins-in-binary-tree/)] (BFS)
 146. LeetCode (Medium) - Vertical Order Traversal of a Binary Tree [[link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)] (BFS, interesting use of lambda/defaultdict and reported order)
 147. LeetCode (Medium) - Minimum Cost For Tickets [[link](https://leetcode.com/problems/minimum-cost-for-tickets/)] (Dynamic Programming)
+148. LeetCode (Hard) - Unique Paths III [[link](https://leetcode.com/problems/unique-paths-iii/)] (DFS, Dynamic Programming/Bit Manipulation)
 
 ---
 
