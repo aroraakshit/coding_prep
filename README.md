@@ -148,6 +148,7 @@ A collection of coding interview problems with my solutions. From various source
 144. LeetCode (Easy) - Rotting Oranges [[link](https://leetcode.com/problems/rotting-oranges/)] (BFS)
 145. LeetCode (Easy) - Cousins in Binary Tree [[link](https://leetcode.com/problems/cousins-in-binary-tree/)] (BFS)
 146. LeetCode (Medium) - Vertical Order Traversal of a Binary Tree [[link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)] (BFS, interesting use of lambda/defaultdict and reported order)
+147. LeetCode (Medium) - Minimum Cost For Tickets [[link](https://leetcode.com/problems/minimum-cost-for-tickets/)] (Dynamic Programming)
 
 ---
 
@@ -248,6 +249,7 @@ Python
 - bisect package - helps with binary search (Reverse Pairs, Three Sum, Longest Increasing Subsequence)
 - reverse a list a[::-1]
 - zip function (Compare Version Numbers)
+- @lru_cache in functools (Minimum cost for tickets)
 
 C++
 
