@@ -142,6 +142,7 @@ A collection of coding interview problems with my solutions. From various source
 138. LeetCode (Hard) - Longest Increasing Path in a Matrix [[link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)] (DFS, DP/memoization)
 139. LeetCode (Easy) - Sum of Root To Leaf Binary Numbers [[link](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)] (DFS, Bit Manipulation)
 140. LeetCode (Medium) - Next Greater Node In Linked List [[link](https://leetcode.com/problems/next-greater-node-in-linked-list/)] (Stack, Arrays)
+141. LeetCode (Hard) - Subarrays with K Different Integers [[link](https://leetcode.com/problems/subarrays-with-k-different-integers/)] (Sliding Window)
 
 ---
 
