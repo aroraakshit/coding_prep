@@ -147,6 +147,7 @@ A collection of coding interview problems with my solutions. From various source
 143. LeetCode (Easy) - Find the Town Judge [[link](https://leetcode.com/problems/find-the-town-judge/)] (Sets)
 144. LeetCode (Easy) - Rotting Oranges [[link](https://leetcode.com/problems/rotting-oranges/)] (BFS)
 145. LeetCode (Easy) - Cousins in Binary Tree [[link](https://leetcode.com/problems/cousins-in-binary-tree/)] (BFS)
+146. LeetCode (Medium) - Vertical Order Traversal of a Binary Tree [[link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)] (BFS, interesting use of lambda/defaultdict and reported order)
 
 ---
 
