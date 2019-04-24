@@ -143,8 +143,9 @@ A collection of coding interview problems with my solutions. From various source
 139. LeetCode (Easy) - Sum of Root To Leaf Binary Numbers [[link](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)] (DFS, Bit Manipulation)
 140. LeetCode (Medium) - Next Greater Node In Linked List [[link](https://leetcode.com/problems/next-greater-node-in-linked-list/)] (Stack, Arrays)
 141. LeetCode (Hard) - Subarrays with K Different Integers [[link](https://leetcode.com/problems/subarrays-with-k-different-integers/)] (Sliding Window)
-142. LeetCode (Easy) - Pairs of Songs With Total Durations Divisible by 60 [[link](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)]
-143. LeetCode (Easy) - Find the Town Judge [[link](https://leetcode.com/problems/find-the-town-judge/)]
+142. LeetCode (Easy) - Pairs of Songs With Total Durations Divisible by 60 [[link](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)] (Hash Table)
+143. LeetCode (Easy) - Find the Town Judge [[link](https://leetcode.com/problems/find-the-town-judge/)] (Sets)
+144. LeetCode (Easy) - Rotting Oranges [[link](https://leetcode.com/problems/rotting-oranges/)] (BFS)
 
 ---
 
