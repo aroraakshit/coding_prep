@@ -146,6 +146,7 @@ A collection of coding interview problems with my solutions. From various source
 142. LeetCode (Easy) - Pairs of Songs With Total Durations Divisible by 60 [[link](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)] (Hash Table)
 143. LeetCode (Easy) - Find the Town Judge [[link](https://leetcode.com/problems/find-the-town-judge/)] (Sets)
 144. LeetCode (Easy) - Rotting Oranges [[link](https://leetcode.com/problems/rotting-oranges/)] (BFS)
+145. LeetCode (Easy) - Cousins in Binary Tree [[link](https://leetcode.com/problems/cousins-in-binary-tree/)] (BFS)
 
 ---
 
