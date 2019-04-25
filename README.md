@@ -152,7 +152,8 @@ A collection of coding interview problems with my solutions. From various source
 148. LeetCode (Hard) - Unique Paths III [[link](https://leetcode.com/problems/unique-paths-iii/)] (DFS, Dynamic Programming/Bit Manipulation)
 149. LeetCode (Medium) - Longest Turbulent Subarray [[link](https://leetcode.com/problems/longest-turbulent-subarray/)] (Arrays)
 150. LeetCode (Medium) - Prison Cells After N Days [[link](https://leetcode.com/problems/prison-cells-after-n-days/)] (Bit Manipulation)
-151. LeetCode (Medium) - Inorder Successor of BST [[link](https://leetcode.com/problems/inorder-successor-in-bst/)] (Inorder Traversal)
+151. LeetCode (Medium) - Inorder Successor of BST [[link](https://leetcode.com/problems/inorder-successor-in-bst/)] (Inorder Traversal, BST, Stack)
+152. LeetCode (Medium) - Find First and Last Position of Element in Sorted Array [[link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)] (Python's bisect package, Binary Search)
 
 ---
 
@@ -250,7 +251,7 @@ Python
 - Generator objects
 - xor (^) (Adding Two Numbers, Fraction Recurring Decimal, Single Number_2)
 - heapq package (Employee Free Time, Kth Largest Element)
-- bisect package - helps with binary search (Reverse Pairs, Three Sum, Longest Increasing Subsequence)
+- bisect package - helps with binary search (Reverse Pairs, Three Sum, Longest Increasing Subsequence, Find First and Last Position of Element in Sorted Array)
 - reverse a list a[::-1]
 - zip function (Compare Version Numbers)
 - @lru_cache in functools (Minimum cost for tickets)
