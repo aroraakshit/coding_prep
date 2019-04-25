@@ -152,6 +152,7 @@ A collection of coding interview problems with my solutions. From various source
 148. LeetCode (Hard) - Unique Paths III [[link](https://leetcode.com/problems/unique-paths-iii/)] (DFS, Dynamic Programming/Bit Manipulation)
 149. LeetCode (Medium) - Longest Turbulent Subarray [[link](https://leetcode.com/problems/longest-turbulent-subarray/)] (Arrays)
 150. LeetCode (Medium) - Prison Cells After N Days [[link](https://leetcode.com/problems/prison-cells-after-n-days/)] (Bit Manipulation)
+151. LeetCode (Medium) - Inorder Successor of BST [[link](https://leetcode.com/problems/inorder-successor-in-bst/)] (Inorder Traversal)
 
 ---
 
