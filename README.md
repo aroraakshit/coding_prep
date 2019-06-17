@@ -157,6 +157,7 @@ A collection of coding interview problems with my solutions. From various source
 153. LeetCode (Medium) - Minesweeper [[link](https://leetcode.com/problems/minesweeper/)] (recursive DFS)
 154. LeetCode (Easy) - Count and Say [[link](https://leetcode.com/problems/count-and-say/)] (Recursion)
 155. LeetCode (Easy) - Delete node in a linked list [[link](https://leetcode.com/problems/delete-node-in-a-linked-list/)]
+156. LeetCode (Easy) - Merge two sorted lists [[link](https://leetcode.com/problems/merge-two-sorted-lists/)]
 
 ---
 
