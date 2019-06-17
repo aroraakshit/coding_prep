@@ -154,6 +154,7 @@ A collection of coding interview problems with my solutions. From various source
 150. LeetCode (Medium) - Prison Cells After N Days [[link](https://leetcode.com/problems/prison-cells-after-n-days/)] (Bit Manipulation)
 151. LeetCode (Medium) - Inorder Successor of BST [[link](https://leetcode.com/problems/inorder-successor-in-bst/)] (Inorder Traversal, BST, Stack)
 152. LeetCode (Medium) - Find First and Last Position of Element in Sorted Array [[link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)] (Python's bisect package, Binary Search)
+153. LeetCode (Medium) - Minesweeper [[link](https://leetcode.com/problems/minesweeper/)]
 
 ---
 
