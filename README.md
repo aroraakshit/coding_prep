@@ -156,8 +156,9 @@ A collection of coding interview problems with my solutions. From various source
 152. LeetCode (Medium) - Find First and Last Position of Element in Sorted Array [[link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)] (Python's bisect package, Binary Search)
 153. LeetCode (Medium) - Minesweeper [[link](https://leetcode.com/problems/minesweeper/)] (recursive DFS)
 154. LeetCode (Easy) - Count and Say [[link](https://leetcode.com/problems/count-and-say/)] (Recursion)
-155. LeetCode (Easy) - Delete node in a linked list [[link](https://leetcode.com/problems/delete-node-in-a-linked-list/)]
-156. LeetCode (Easy) - Merge two sorted lists [[link](https://leetcode.com/problems/merge-two-sorted-lists/)]
+155. LeetCode (Easy) - Delete node in a linked list [[link](https://leetcode.com/problems/delete-node-in-a-linked-list/)] (Trick on LL/ copy the next element to current and delete the next one)
+156. LeetCode (Easy) - Merge two sorted lists [[link](https://leetcode.com/problems/merge-two-sorted-lists/)] (Recursion)
+157. LeetCode (Easy) - Palindrome Linked List [[link](https://leetcode.com/problems/palindrome-linked-list/)] (O(1) space and O(n) time)
 
 ---
 
