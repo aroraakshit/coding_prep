@@ -160,6 +160,7 @@ A collection of coding interview problems with my solutions. From various source
 156. LeetCode (Easy) - Merge two sorted lists [[link](https://leetcode.com/problems/merge-two-sorted-lists/)] (Recursion)
 157. LeetCode (Easy) - Palindrome Linked List [[link](https://leetcode.com/problems/palindrome-linked-list/)] (O(1) space and O(n) time)
 158. LeetCode (Easy) - High Five [[link](https://leetcode.com/problems/high-five/)] (Heap)
+159. LeetCode (Medium) - Max Increase to Keep City Skyline [[link](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)] (Smart Iteration)
 
 ---
 
