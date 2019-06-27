@@ -161,6 +161,7 @@ A collection of coding interview problems with my solutions. From various source
 157. LeetCode (Easy) - Palindrome Linked List [[link](https://leetcode.com/problems/palindrome-linked-list/)] (O(1) space and O(n) time)
 158. LeetCode (Easy) - High Five [[link](https://leetcode.com/problems/high-five/)] (Heap)
 159. LeetCode (Medium) - Max Increase to Keep City Skyline [[link](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)] (Smart Iteration)
+160. LeetCode (Hard) - Robot Room Cleaner [[link](https://leetcode.com/problems/robot-room-cleaner/)] (Depth First Search)
 
 ---
 
@@ -231,6 +232,7 @@ Graphs/Trees:
     - Detect Cycle in a directed graph / Course Schedule
     - Distribute Coins in a Binary Tree
     - Pacific Atlantic Water Flow
+    - Robot Room Cleaner
 - BFS (Iterative and Recursive)
     - Surrounded Regions
     - Word Ladder (Bi-directional BFS)
