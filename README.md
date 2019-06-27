@@ -159,6 +159,7 @@ A collection of coding interview problems with my solutions. From various source
 155. LeetCode (Easy) - Delete node in a linked list [[link](https://leetcode.com/problems/delete-node-in-a-linked-list/)] (Trick on LL/ copy the next element to current and delete the next one)
 156. LeetCode (Easy) - Merge two sorted lists [[link](https://leetcode.com/problems/merge-two-sorted-lists/)] (Recursion)
 157. LeetCode (Easy) - Palindrome Linked List [[link](https://leetcode.com/problems/palindrome-linked-list/)] (O(1) space and O(n) time)
+158. LeetCode (Easy) - High Five [[link](https://leetcode.com/problems/high-five/)] (Heap)
 
 ---
 
