@@ -167,6 +167,7 @@ A collection of coding interview problems with my solutions. From various source
 163. LeetCode (Medium) - Reverse Words in a String II [[link](https://leetcode.com/problems/reverse-words-in-a-string-ii/)] (in-place transformation)
 164. LeetCode (Easy) - Valid Parentheses [[link](https://leetcode.com/problems/valid-parentheses/)] (Stack)
 165. LeetCode (Medium) - Add Two Numbers II [[link](https://leetcode.com/problems/add-two-numbers-ii/)] (Stack, reverse linked list)
+166. LeetCode (Hard) - Merge k Sorted Lists [[link](https://leetcode.com/problems/merge-k-sorted-lists/)] (Accumulate in list and sort instead of recursion)
 
 ---
 
