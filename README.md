@@ -165,7 +165,8 @@ A collection of coding interview problems with my solutions. From various source
 161. LeetCode (Medium) - Rotate List [[link](https://leetcode.com/problems/rotate-list/)] (Linked List)
 162. LeetCode (Hard) - Number of Atoms [[link](https://leetcode.com/problems/number-of-atoms/)] (Hash Table)
 163. LeetCode (Medium) - Reverse Words in a String II [[link](https://leetcode.com/problems/reverse-words-in-a-string-ii/)] (in-place transformation)
-164. LeetCode () - Valid Parentheses [[link](https://leetcode.com/problems/valid-parentheses/)] (Stack)
+164. LeetCode (Easy) - Valid Parentheses [[link](https://leetcode.com/problems/valid-parentheses/)] (Stack)
+165. LeetCode (Medium) - Add Two Numbers II [[link](https://leetcode.com/problems/add-two-numbers-ii/)] (Stack, reverse linked list)
 
 ---
 
@@ -177,6 +178,7 @@ Other Resources:
 4. Problem Solving with Algorithms and Data Structures using C++ [[link](https://runestone.academy/runestone/static/cppds/index.html)]
 5. Algs4cs Princeton [[link](https://algs4.cs.princeton.edu/lectures/)]
 6. Union Find - HackerEarth [[link](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)]
+7. Teach Yourself CS [[link](http://teachyourselfcs.com)]
 
 ---
 

@@ -4,7 +4,7 @@
 #         self.val = x
 #         self.next = None
 
-class Solution(object): #56ms
+class Solution(object): #32ms
     def hasCycle(self, head):
         try:
             slow = head
