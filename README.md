@@ -169,7 +169,7 @@ A collection of coding interview problems with my solutions. From various source
 165. LeetCode (Medium) - Add Two Numbers II [[link](https://leetcode.com/problems/add-two-numbers-ii/)] (Stack, reverse linked list)
 166. LeetCode (Hard) - Merge k Sorted Lists [[link](https://leetcode.com/problems/merge-k-sorted-lists/)] (Accumulate in list and sort instead of recursion)
 167. LeetCode (Easy) - Intersection of Two Linked Lists [[link](https://leetcode.com/problems/intersection-of-two-linked-lists/)] (Stack, Two pointers)
-168. LeetCode (Medium) - Binary Tree Inorder Traversal [[link]()] (Iterative/recursive inorder)
+168. LeetCode (Medium) - Binary Tree Inorder Traversal [[link](https://leetcode.com/problems/binary-tree-inorder-traversal/)] (Iterative/recursive inorder)
 
 ---
 
