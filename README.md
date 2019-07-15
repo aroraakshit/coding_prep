@@ -173,6 +173,9 @@ A collection of coding interview problems with my solutions. From various source
 169. LeetCode (Medium) - Binary Tree Level Order Traversal [[link](https://leetcode.com/problems/binary-tree-level-order-traversal/)] (BFS)
 170. LeetCode (Medium) - Populating Next Right Pointers in Each Node [[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)] (BFS, perfect binary tree constraint)
 171. LeetCode (Medium) - Populating Next Right Pointers in Each Node II [[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)] (BFS)
+172. LeetCode (Easy) - Lowest Common Ancestor of a Binary Search Tree [[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)] (Recursion)
+173. LeetCode (Medium) - Lowest Common Ancestor of a Binary Tree [[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)] (Iterative post order traversal using stack)
+
 ---
 
 Other Resources:
