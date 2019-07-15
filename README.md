@@ -171,8 +171,8 @@ A collection of coding interview problems with my solutions. From various source
 167. LeetCode (Easy) - Intersection of Two Linked Lists [[link](https://leetcode.com/problems/intersection-of-two-linked-lists/)] (Stack, Two pointers)
 168. LeetCode (Medium) - Binary Tree Inorder Traversal [[link](https://leetcode.com/problems/binary-tree-inorder-traversal/)] (Iterative/recursive inorder)
 169. LeetCode (Medium) - Binary Tree Level Order Traversal [[link](https://leetcode.com/problems/binary-tree-level-order-traversal/)] (BFS)
-170. LeetCode (Medium) - Populating Next Right Pointers in Each Node [[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)] (BFS)
-
+170. LeetCode (Medium) - Populating Next Right Pointers in Each Node [[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)] (BFS, perfect binary tree constraint)
+171. LeetCode (Medium) - Populating Next Right Pointers in Each Node II [[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)] (BFS)
 ---
 
 Other Resources:

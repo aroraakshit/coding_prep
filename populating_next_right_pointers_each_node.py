@@ -1,4 +1,4 @@
-class Solution: # 56ms, modified bfs
+class Solution: # 56ms, modified bfs, same as the second part, works with simple binary trees too
     def connect(self, root: 'Node') -> 'Node':
         if not root:
             return root
@@ -20,7 +20,7 @@ class Solution: # 56ms, modified bfs
                 queue.append((el.left, level+1))
         return root
 
-class Solution: # 36ms, Credits - LeetCode
+class Solution: # 36ms, Credits - LeetCode, takes the benefit of perfect binary tree constraint!
     def connect(self, root: 'Node') -> 'Node':
         
         curr = root
