@@ -5,7 +5,7 @@
 #         self.left = None
 #         self.right = None
 
-class Solution:
+class Solution: # 32ms
     def zigzagLevelOrder(self, root):
         """
         :type root: TreeNode
@@ -35,3 +35,29 @@ class Solution:
             l2r = not l2r
             result.append(row)
         return result
+
+
+class Solution: # 40ms solution
+    def zigzagLevelOrder(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[List[int]]
+        """
+        if not root:
+            return []
+        ans = []
+        queue = [(root, 0)]
+        while queue != []:
+            el, level = queue[0]
+            if len(ans) == level:
+                ans.append([el.val])
+            elif level%2: # odd level -> right to left
+                ans[level] = [el.val] + ans[level]
+            else: # even level -> left to right
+                ans[level].append(el.val)
+            queue.pop(0)
+            if el.left:
+                queue.append((el.left, level+1))
+            if el.right:
+                queue.append((el.right, level+1))
+        return ans
