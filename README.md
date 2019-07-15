@@ -170,6 +170,7 @@ A collection of coding interview problems with my solutions. From various source
 166. LeetCode (Hard) - Merge k Sorted Lists [[link](https://leetcode.com/problems/merge-k-sorted-lists/)] (Accumulate in list and sort instead of recursion)
 167. LeetCode (Easy) - Intersection of Two Linked Lists [[link](https://leetcode.com/problems/intersection-of-two-linked-lists/)] (Stack, Two pointers)
 168. LeetCode (Medium) - Binary Tree Inorder Traversal [[link](https://leetcode.com/problems/binary-tree-inorder-traversal/)] (Iterative/recursive inorder)
+169. LeetCode (Medium) - Binary Tree Level Order Traversal [[link](https://leetcode.com/problems/binary-tree-level-order-traversal/)] (BFS)
 
 ---
 
@@ -247,6 +248,7 @@ Graphs/Trees:
     - Word Ladder (Bi-directional BFS)
     - Optimal Account Balancing
     - Clone Graph (iterative)
+    - Binary Tree Level Order Traversal
 - Inorder Traversal (Iterative and Recursive)
 - Preorder Traversal (Iterative and Recursive)
 - Postorder Traversal (Iterative and Recursive)
