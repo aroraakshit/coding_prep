@@ -175,6 +175,8 @@ A collection of coding interview problems with my solutions. From various source
 171. LeetCode (Medium) - Populating Next Right Pointers in Each Node II [[link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)] (BFS)
 172. LeetCode (Easy) - Lowest Common Ancestor of a Binary Search Tree [[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)] (Recursion)
 173. LeetCode (Medium) - Lowest Common Ancestor of a Binary Tree [[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)] (Iterative post order traversal using stack)
+174. LeetCode (Medium) - Construct Binary Tree from Preorder and Inorder Traversal [[link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)]
+175. LeetCode (Hard) - Alien Dictionary [[link](https://leetcode.com/problems/alien-dictionary/)] (Topological Sort)
 
 ---
 
@@ -212,6 +214,7 @@ Stacks & Queues:
 - Remove K Digits (Stacks and Greedy algorithm)
 - Simplify Path (Stacks)
 - Decode String
+- Moving Average from Data Stream (Queue)
 
 Backtracking:
 

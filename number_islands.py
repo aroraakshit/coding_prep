@@ -63,3 +63,64 @@ class Solution: # 76ms
 #         if j + 1 < len(grid[0]) and grid[i][j+1] == '1':
 #             self.dfs(i , j+1, grid)
             
+
+# 48ms, faster than 99% solutions, https://leetcode.com/problems/number-of-islands/ 
+# Credits - LeetCode
+from collections import defaultdict
+
+class Solution(object):
+    def __init__(self):
+        self.grid = None
+        self.sets = None
+        self.parent = [0]
+    
+    def find(self, k):
+        i = k
+        while self.parent[i] != i:
+            i = self.parent[i]
+        self.parent[k] = i
+        return i
+    
+    def union(self, p, q):
+        i = self.find(p)
+        j = self.find(q)
+        self.parent[i] = j
+        return j
+    
+    def numIslands(self, grid):
+        """
+        :type grid: List[List[str]]
+        :rtype: int
+        """
+        if not grid or not grid[0]:
+            return 0
+        
+        n = len(grid)
+        m = len(grid[0])
+        
+        self.grid = grid
+        sets = self.sets = [[0]*m for i in range(n)]
+        
+        sequence = 1
+        cur = [0]*m
+        for i in range(n):
+            for j in range(m):
+                if grid[i][j] == '0':
+                    cur[j] = 0
+                    continue
+                
+                left = cur[j-1] if j > 0 else 0
+                top = cur[j]
+                if not left and not top:
+                    cur[j] = sequence
+                    self.parent.append(sequence)
+                    sequence += 1
+                elif left and not top:
+                    cur[j] = left
+                elif not left and top:
+                    cur[j] = top
+                else:
+                    cur[j] = self.union(left, top)
+        
+        return sum(1 for i in range(1, len(self.parent)) if self.parent[i] == i)
+        
