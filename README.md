@@ -1,6 +1,123 @@
 # coding_prep
-A collection of coding interview problems with my solutions. From various sources including Leet-Code, Interview experiences etc.
+A collection of coding interview problems with my solutions. From various sources including Leet-Code, Interview experiences etc. List of questions at the end of this readme file.
 #100DaysOfCode
+
+---
+
+Other Resources:
+
+1. TopCoder Blog - GitHub Repositories With Competitive Programming Libraries [[link](https://www.topcoder.com/blog/github-repositories-with-competitive-programming-libraries/)]
+2. Problem Solving with Algorithms and Data Structures using Python [[link](http://interactivepython.org/runestone/static/pythonds/index.html)]
+3. RosettaCode [[link](https://rosettacode.org/wiki/Category:Programming_Tasks)]
+4. Problem Solving with Algorithms and Data Structures using C++ [[link](https://runestone.academy/runestone/static/cppds/index.html)]
+5. Algs4cs Princeton [[link](https://algs4.cs.princeton.edu/lectures/)]
+6. Union Find - HackerEarth [[link](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)]
+7. Teach Yourself CS [[link](http://teachyourselfcs.com)]
+8. LeetCode Patterns [[link](https://medium.com/leetcode-patterns)]
+
+---
+
+## Common Patterns
+
+Arrays/Lists/Strings:
+
+- Two pointers (left/right, slow/fast)  
+- Ordered Dictionaries in Python (LRU Cache, LFU Cache)
+- Zero Sum Clique Reduction (Optimal Account Balancing, Minimum Cash Flow)
+- Merge Intervals, Insert Interval (based on Sorting)
+- Largest Number (Custom Comparator operator, Python's map function)
+- Implement strStr() (Two pointers, Rabin Karp: Rolling Hash)
+- Game of Life
+
+Trie / Prefix Search
+
+- Add and Search Word
+
+Stacks & Queues:
+
+- Design Snake Game (Queues)
+- Remove K Digits (Stacks and Greedy algorithm)
+- Simplify Path (Stacks)
+- Decode String
+- Moving Average from Data Stream (Queue)
+
+Backtracking:
+
+- Letter Combinations of a Phone Number
+- Word Search
+- Add and Search Word - Data structure design
+- Permutations II
+- Palindrome Partitioning
+- Restore IP Addresses
+
+Dynamic Programming
+
+- Bomb Enemy
+- Coin Change
+
+Greedy Approach
+
+- Wiggle Subsequence
+- Remove K Digits
+
+Ad Hoc:
+
+- Fraction to Recurring Decimal
+- Integer to English Word
+- Spiral Matrix (yield keyword, generator perspective)
+
+Graphs/Trees:
+
+- DFS (Iterative and Recursive) / O(V+E)
+    - Clone Graph (recursive)
+    - Coin Change
+    - Detect Cycle in a directed graph / Course Schedule
+    - Distribute Coins in a Binary Tree
+    - Pacific Atlantic Water Flow
+    - Robot Room Cleaner
+- BFS (Iterative and Recursive)
+    - Surrounded Regions
+    - Word Ladder (Bi-directional BFS)
+    - Optimal Account Balancing
+    - Clone Graph (iterative)
+    - Binary Tree Level Order Traversal
+    - Populating Next Right Pointers in Each Node
+- Inorder Traversal (Iterative and Recursive)
+- Preorder Traversal (Iterative and Recursive)
+- Postorder Traversal (Iterative and Recursive)
+- Kosaraju's Algorithm for Strongly Connected Components
+- Union-Find Algorithm for Cycle Detection in Undirected Graphs
+- Cycle detection in directed graphs using Colors / DFS stack
+- Bridges in a graph
+- Prim's Algorithm, Kruskal Algorithm: Minimum spanning tree
+- Dijkstra's Algorithm - Shortest path from origin to every other node in graph / Greedy / O(ELogV) / only non-negative weights
+- Bellman Ford Algorithm - Shortest path from origin to every other node in graph / DP / O(VE)
+- Topological Sort for a directed graph
+    - Alien Dictionary
+- Floyd Warshall Algorithm - All pairs shortest path
+- Kirchhoff’s Theorem - Calculating number of Spanning trees Of a Graph
+
+Python
+
+- List Comprehensions (Bomb Enemy, Permutations II)
+- zip(*(grid)) generator for transpose (Bomb Enemy, Alien Dictionary)
+- Iterators / Ordered Dict (LRU Cache)
+- Generator objects
+- xor (^) (Adding Two Numbers, Fraction Recurring Decimal, Single Number_2)
+- heapq package (Employee Free Time, Kth Largest Element)
+- bisect package - helps with binary search (Reverse Pairs, Three Sum, Longest Increasing Subsequence, Find First and Last Position of Element in Sorted Array)
+- reverse a list a[::-1]
+- zip function (Compare Version Numbers)
+- @lru_cache in functools (Minimum cost for tickets)
+
+C++
+
+- Shortforms [[link](https://gist.github.com/aroraakshit/e8f9d45862cf85ec7b698a679ea37748)]
+
+---
+
+## List of Questions
+
 
 1. LeetCode (Medium) - Design Tic Tac Toe [[link](https://leetcode.com/problems/design-tic-tac-toe/)]
 2. LeetCode (Medium) - Longest substring without repeating characters [[link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)]
@@ -176,114 +293,5 @@ A collection of coding interview problems with my solutions. From various source
 172. LeetCode (Easy) - Lowest Common Ancestor of a Binary Search Tree [[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)] (Recursion)
 173. LeetCode (Medium) - Lowest Common Ancestor of a Binary Tree [[link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)] (Iterative post order traversal using stack)
 174. LeetCode (Medium) - Construct Binary Tree from Preorder and Inorder Traversal [[link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)] (Recursion)
-175. LeetCode (Hard) - Alien Dictionary [[link](https://leetcode.com/problems/alien-dictionary/)] (Topological Sort)
-
----
-
-Other Resources:
-
-1. TopCoder Blog - GitHub Repositories With Competitive Programming Libraries [[link](https://www.topcoder.com/blog/github-repositories-with-competitive-programming-libraries/)]
-2. Problem Solving with Algorithms and Data Structures using Python [[link](http://interactivepython.org/runestone/static/pythonds/index.html)]
-3. RosettaCode [[link](https://rosettacode.org/wiki/Category:Programming_Tasks)]
-4. Problem Solving with Algorithms and Data Structures using C++ [[link](https://runestone.academy/runestone/static/cppds/index.html)]
-5. Algs4cs Princeton [[link](https://algs4.cs.princeton.edu/lectures/)]
-6. Union Find - HackerEarth [[link](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)]
-7. Teach Yourself CS [[link](http://teachyourselfcs.com)]
-
----
-
-## Common Patterns
-
-Arrays/Lists/Strings:
-
-- Two pointers (left/right, slow/fast)  
-- Ordered Dictionaries in Python (LRU Cache, LFU Cache)
-- Zero Sum Clique Reduction (Optimal Account Balancing, Minimum Cash Flow)
-- Merge Intervals, Insert Interval (based on Sorting)
-- Largest Number (Custom Comparator operator, Python's map function)
-- Implement strStr() (Two pointers, Rabin Karp: Rolling Hash)
-- Game of Life
-
-Trie / Prefix Search
-
-- Add and Search Word
-
-Stacks & Queues:
-
-- Design Snake Game (Queues)
-- Remove K Digits (Stacks and Greedy algorithm)
-- Simplify Path (Stacks)
-- Decode String
-- Moving Average from Data Stream (Queue)
-
-Backtracking:
-
-- Letter Combinations of a Phone Number
-- Word Search
-- Add and Search Word - Data structure design
-- Permutations II
-- Palindrome Partitioning
-- Restore IP Addresses
-
-Dynamic Programming
-
-- Bomb Enemy
-- Coin Change
-
-Greedy Approach
-
-- Wiggle Subsequence
-- Remove K Digits
-
-Ad Hoc:
-
-- Fraction to Recurring Decimal
-- Integer to English Word
-- Spiral Matrix (yield keyword, generator perspective)
-
-Graphs/Trees:
-
-- DFS (Iterative and Recursive) / O(V+E)
-    - Clone Graph (recursive)
-    - Coin Change
-    - Detect Cycle in a directed graph / Course Schedule
-    - Distribute Coins in a Binary Tree
-    - Pacific Atlantic Water Flow
-    - Robot Room Cleaner
-- BFS (Iterative and Recursive)
-    - Surrounded Regions
-    - Word Ladder (Bi-directional BFS)
-    - Optimal Account Balancing
-    - Clone Graph (iterative)
-    - Binary Tree Level Order Traversal
-    - Populating Next Right Pointers in Each Node
-- Inorder Traversal (Iterative and Recursive)
-- Preorder Traversal (Iterative and Recursive)
-- Postorder Traversal (Iterative and Recursive)
-- Kosaraju's Algorithm for Strongly Connected Components
-- Union-Find Algorithm for Cycle Detection in Undirected Graphs
-- Cycle detection in directed graphs using Colors / DFS stack
-- Bridges in a graph
-- Prim's Algorithm, Kruskal Algorithm: Minimum spanning tree
-- Dijkstra's Algorithm - Shortest path from origin to every other node in graph / Greedy / O(ELogV) / only non-negative weights
-- Bellman Ford Algorithm - Shortest path from origin to every other node in graph / DP / O(VE)
-- Topological Sort for a directed graph
-- Floyd Warshall Algorithm - All pairs shortest path
-- Kirchhoff’s Theorem - Calculating number of Spanning trees Of a Graph
-
-Python
-
-- List Comprehensions (Bomb Enemy, Permutations II)
-- zip(*(grid)) generator for transpose (Bomb Enemy)
-- Iterators / Ordered Dict (LRU Cache)
-- Generator objects
-- xor (^) (Adding Two Numbers, Fraction Recurring Decimal, Single Number_2)
-- heapq package (Employee Free Time, Kth Largest Element)
-- bisect package - helps with binary search (Reverse Pairs, Three Sum, Longest Increasing Subsequence, Find First and Last Position of Element in Sorted Array)
-- reverse a list a[::-1]
-- zip function (Compare Version Numbers)
-- @lru_cache in functools (Minimum cost for tickets)
-
-C++
-
-- Shortforms [[link](https://gist.github.com/aroraakshit/e8f9d45862cf85ec7b698a679ea37748)]
+175. LeetCode (Hard) - Alien Dictionary [[link](https://leetcode.com/problems/alien-dictionary/)] (Topological Sort for directed graph)
+176. LeetCode (Medium) - Grumpy Bookstore Owner [[link](https://leetcode.com/problems/grumpy-bookstore-owner/)]
